@@ -1,4 +1,4 @@
-# GX Variation test fonts
+# OpenType+GX Variation test fonts
 ### Test fonts in OpenType TT (.ttf) format with TrueType GX font variation tables
 
 These fonts are conversions of fonts published under the OFL into the OpenType TT (.ttf) format with TrueType GX font variation tables (`gvar`, `fvar`), which allows “MultipleMaster”-like functionality aka responsive fonts. Such tables are principally supported in Mac OS X and in most recent versions of FreeType. These fonts are intended for testing purposes. 
