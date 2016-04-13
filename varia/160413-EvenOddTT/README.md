@@ -27,10 +27,12 @@ The `-orig.ttf` version has just this. I have also created a `-mod.ttf` version 
 
 The rendering of the glyph that is drawn in such a way is expected to be: 
 ![02-nonzerowind.png](02-nonzerowind.png)
+
 and this is how this glyph is rendered in FreeType and in Microsoft Windows. 
 
 However, in Mac OS X 10.11.4 CoreText, the glyph is rendered “inverted”, as follows: 
 ![03-evenoddwind.png](03-evenoddwind.png)
+
 which suggests that Mac OS X 10.11.4 may be using the even-odd-winding rule. 
 
 This is confirmed by comparing how the hinted outline is rendered in FontLab Studio 5 using: 
@@ -42,7 +44,7 @@ This is confirmed by comparing how the hinted outline is rendered in FontLab Stu
 #### Attachments
 
 * [EvenOddTT-orig.ttf](EvenOddTT-orig.ttf) has the original glyph outline
-* [EvenOddTT-mod.ttf](EvenOddTT-mod.ttf) has bit 6 of the flags field of the first contour in the `O` glyph set to 1.
+* [EvenOddTT-mod.ttf](EvenOddTT-mod.ttf) has bit 6 of the flags field of the first contour in the `O` glyph set to 1 — but it does not seem to have any influence over the Apple rasterizer.
 
 ### Other places where the “inverting” problem is seen
 
