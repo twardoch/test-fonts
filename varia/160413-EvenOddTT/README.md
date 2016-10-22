@@ -46,6 +46,8 @@ This is confirmed by comparing how the hinted outline is rendered in FontLab Stu
 * [EvenOddTT-orig.ttf](EvenOddTT-orig.ttf) has the original glyph outline
 * [EvenOddTT-mod.ttf](EvenOddTT-mod.ttf) has bit 6 of the flags field of the first contour in the `O` glyph set to 1 — but it does not seem to have any influence over the Apple rasterizer.
 
+**UPDATE 2016-10-22: In MacOS 10.12 Sierra, the situation is different: *EvenOddTT-orig.ttf* renders as it did (with the overlaps visible as “white”) while *EvenOddTT-mod.ttf* renders as expected, with the overlaps invisible (except in smaller sizes “ghost lines” being visible).
+
 ### Other places where the “inverting” problem is seen
 
 ### Hoefler Text

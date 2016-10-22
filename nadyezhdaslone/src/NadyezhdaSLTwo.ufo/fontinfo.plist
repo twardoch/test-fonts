@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ascender</key>
+  <integer>1556</integer>
+  <key>capHeight</key>
+  <integer>1493</integer>
+  <key>copyright</key>
+  <string>Extensions copyright (c) 2016 by Adam Twardoch. Original copyright for Bitstream Vera Mono: (c) 2003 by Bitstream, Inc. All Rights Reserved.</string>
+  <key>descender</key>
+  <integer>-492</integer>
+  <key>familyName</key>
+  <string>Nadyezhda SL Two</string>
+  <key>italicAngle</key>
+  <integer>0</integer>
+  <key>openTypeHeadCreated</key>
+  <string>2016/11/08 04:58:00</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>4</integer>
+  </array>
+  <key>openTypeHheaAscender</key>
+  <integer>1901</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-483</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>0</integer>
+  <key>openTypeNameDesigner</key>
+  <string>Original design: Jim Lyles. Extensions: Adam Twardoch</string>
+  <key>openTypeNameDesignerURL</key>
+  <string>http://www.twardoch.com</string>
+  <key>openTypeNameLicense</key>
+  <string>Copyright (c) 2003 by Bitstream, Inc.
+All Rights Reserved.
+Bitstream Vera is a trademark of Bitstream, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (&quot;Fonts&quot;) and associated documentation files (the &quot;Font Software&quot;), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:
+
+The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.
+
+The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words &quot;Bitstream&quot; or the word &quot;Vera&quot;.
+
+This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the &quot;Bitstream Vera&quot; names.
+
+The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.
+
+THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org.</string>
+  <key>openTypeNameLicenseURL</key>
+  <string></string>
+  <key>openTypeNameManufacturer</key>
+  <string>Adam Twardoch</string>
+  <key>openTypeNameManufacturerURL</key>
+  <string>http://www.silesian.com</string>
+  <key>openTypeNameDescription</key>
+  <string>This font is a special version of the Bitstream Vera Mono font, 
+originally designed by Jim Lyles. This version has been extended by Adam Twardoch. 
+
+This font is intended for testing of OpenType Layout features support in an application. Using a special test string (see below), the user can selectively turn on and off OpenType features in the application&#39;s UI and observe which OpenType feature tags are being applied to the text. All features are of type GSUB LookupType 4 (ligature) and are registered in the Latin (latn) default languagesystem. 
+
+&quot;Nadyezhda&quot; is Russian for &quot;Hope&quot;. Along with &quot;Vera&quot; (which was also the original name for this typeface, and is Russian for &quot;Faith&quot;) and with &quot;Lyubov&quot; (&quot;Love&quot;), they form the three Biblical virtues, and rank among the most popular Russian female given names. 
+
+The special test string is: 
+
+aa ab ac ad ae af ag ah ai aj ak al am 
+an ao ap aq ar as at au av aw ax ay az
+ba bb bc bd be bf bg bh bi bj bk bl bm 
+bn bo bp bq br bs bt bu bv bw bx by bz
+ca cb cc cd ce cf cg ch ci cj ck cl cm 
+cn co cp cq cr cs ct cu cv cw cx cy cz
+da db dc dd de df dg dh di dj dk dl dm 
+dn do dp dq dr ds dt du dv dw dx dy dz
+ea eb ec ed ee ef eg eh ei ej ek el em 
+en eo ep eq er es et eu ev ew ex ey ez</string>
+  <key>openTypeNameSampleText</key>
+  <string></string>
+  <key>openTypeNameUniqueID</key>
+  <string>SilesianLetters: Nadyezhda SL One: 2010</string>
+  <key>openTypeNameVersion</key>
+  <string>Version 2.011</string>
+  <key>openTypeOS2CodePageRanges</key>
+  <array>
+    <integer>0</integer>
+  </array>
+  <key>openTypeOS2FamilyClass</key>
+  <array>
+    <integer>8</integer>
+    <integer>2</integer>
+  </array>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>2</integer>
+    <integer>11</integer>
+    <integer>6</integer>
+    <integer>0</integer>
+    <integer>3</integer>
+    <integer>8</integer>
+    <integer>4</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>4</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+  </array>
+  <key>openTypeOS2StrikeoutPosition</key>
+  <integer>614</integer>
+  <key>openTypeOS2StrikeoutSize</key>
+  <integer>141</integer>
+  <key>openTypeOS2SubscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SubscriptXSize</key>
+  <integer>1351</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>-446</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>1228</integer>
+  <key>openTypeOS2SuperscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SuperscriptXSize</key>
+  <integer>1351</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>595</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>1228</integer>
+  <key>openTypeOS2Type</key>
+  <array>
+    <integer>2</integer>
+  </array>
+  <key>openTypeOS2TypoAscender</key>
+  <integer>1556</integer>
+  <key>openTypeOS2TypoDescender</key>
+  <integer>-492</integer>
+  <key>openTypeOS2TypoLineGap</key>
+  <integer>410</integer>
+  <key>openTypeOS2UnicodeRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>5</integer>
+    <integer>7</integer>
+    <integer>31</integer>
+    <integer>33</integer>
+    <integer>35</integer>
+    <integer>38</integer>
+    <integer>45</integer>
+    <integer>60</integer>
+  </array>
+  <key>openTypeOS2VendorID</key>
+  <string>SL</string>
+  <key>openTypeOS2WeightClass</key>
+  <integer>400</integer>
+  <key>openTypeOS2WidthClass</key>
+  <integer>5</integer>
+  <key>openTypeOS2WinAscent</key>
+  <integer>1901</integer>
+  <key>openTypeOS2WinDescent</key>
+  <integer>483</integer>
+  <key>postscriptBlueFuzz</key>
+  <integer>1</integer>
+  <key>postscriptBlueScale</key>
+  <real>0.039625</real>
+  <key>postscriptBlueShift</key>
+  <integer>7</integer>
+  <key>postscriptBlueValues</key>
+  <array>
+    <integer>-20</integer>
+    <integer>0</integer>
+  </array>
+  <key>postscriptUniqueID</key>
+  <integer>-1</integer>
+  <key>postscriptFontName</key>
+  <string>NadyezhdaSLTwo-Regular</string>
+  <key>postscriptForceBold</key>
+  <false/>
+  <key>postscriptFullName</key>
+  <string>Nadyezhda SL Two Regular</string>
+  <key>postscriptIsFixedPitch</key>
+  <false/>
+  <key>postscriptUnderlinePosition</key>
+  <real>-212.5</real>
+  <key>postscriptUnderlineThickness</key>
+  <integer>141</integer>
+  <key>postscriptWeightName</key>
+  <string>Normal</string>
+  <key>styleMapFamilyName</key>
+  <string>Nadyezhda SL Two</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
+  <key>styleName</key>
+  <string>Regular</string>
+  <key>trademark</key>
+  <string>Bitstream Vera is a trademark of Bitstream, Inc.</string>
+  <key>unitsPerEm</key>
+  <integer>2048</integer>
+  <key>versionMajor</key>
+  <integer>2</integer>
+  <key>versionMinor</key>
+  <integer>11</integer>
+  <key>year</key>
+  <integer>2016</integer>
+  <key>xHeight</key>
+  <integer>1120</integer>
+  <key>macintoshFONDName</key>
+  <string>Nadyezhda SL Two</string>
+  <key>macintoshFONDFamilyID</key>
+  <integer>128</integer>
+</dict>
+</plist>

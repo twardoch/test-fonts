@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xj" format="1">
+  <advance width="1233"/>
+  <outline>
+    <contour>
+      <point x="54" y="87" type="qcurve"/>
+      <point x="54" y="258" type="line" name="dh01"/>
+      <point x="97" y="214"/>
+      <point x="195" y="168"/>
+      <point x="244" y="168" type="qcurve" name="dv02"/>
+      <point x="302" y="168"/>
+      <point x="356" y="226"/>
+      <point x="356" y="289" type="qcurve" name="sh01"/>
+      <point x="356" y="666" type="line" name="dv03"/>
+      <point x="176" y="666" type="line"/>
+      <point x="176" y="796" type="line" name="hr01"/>
+      <point x="504" y="796" type="line" name="dv04"/>
+      <point x="504" y="289" type="line" name="dh02"/>
+      <point x="504" y="153"/>
+      <point x="389" y="35"/>
+      <point x="258" y="35" type="qcurve" name="dv01"/>
+      <point x="210" y="35"/>
+      <point x="107" y="61"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJk
+b3VibGVoIiBwb2ludDE9ImRoMDEiIHBvaW50Mj0i
+ZGgwMiIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMg
+Y29kZT0ic2luZ2xlaCIgcG9pbnQxPSJkaDAyIiBw
+b2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAg
+ICA8dHRjIGNvZGU9ImRvdWJsZXYiIHBvaW50MT0i
+ZHYwMSIgcG9pbnQyPSJkdjAyIiByb3VuZD0idHJ1
+ZSIvPgogICAgPHR0YyBjb2RlPSJkb3VibGV2IiBw
+b2ludDE9ImR2MDMiIHBvaW50Mj0iZHYwNCIgcm91
+bmQ9InRydWUiLz4KICA8L3R0UHJvZ3JhbT4K
+  </data>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjM1IiB3aWR0aD0iMTMzIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NjYiIHdpZHRoPSIxMzAiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjM1NiIgd2lkdGg9
+IjE0OCIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+aW50c2V0IHBvaW50VGFnPSJkdjAxIj4KICAgICAg
+PGhzdGVtIHBvcz0iMzUiIHdpZHRoPSIxMzMiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjY2NiIgd2lkdGg9
+IjEzMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNTQi
+IHdpZHRoPSI0NTAiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
