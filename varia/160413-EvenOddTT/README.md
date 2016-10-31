@@ -28,12 +28,12 @@ The `-orig.ttf` version has just this. I have also created a `-mod.ttf` version 
 The rendering of the glyph that is drawn in such a way is expected to be: 
 ![02-nonzerowind.png](02-nonzerowind.png)
 
-and this is how this glyph is rendered in FreeType and in Microsoft Windows. 
+and this is how this glyph is rendered in FreeType and in Microsoft Windows, and also, if the special bit has been set, in macOS Sierra.
 
-However, in Mac OS X 10.11.4 CoreText, the glyph is rendered “inverted”, as follows: 
+However, in Mac OS X 10.11.4 El Capitan CoreText renderer, the glyph is rendered “inverted”, as follows: 
 ![03-evenoddwind.png](03-evenoddwind.png)
 
-which suggests that Mac OS X 10.11.4 may be using the even-odd-winding rule. 
+which suggests that Mac OS X 10.11.4 may be using the even-odd-winding rule. If the special bit is unset, the same rendering happens in macOS 10.12.1 Sierra.
 
 This is confirmed by comparing how the hinted outline is rendered in FontLab Studio 5 using: 
 * the Microsoft font rasterizer:
@@ -44,9 +44,7 @@ This is confirmed by comparing how the hinted outline is rendered in FontLab Stu
 #### Attachments
 
 * [EvenOddTT-orig.ttf](EvenOddTT-orig.ttf) has the original glyph outline
-* [EvenOddTT-mod.ttf](EvenOddTT-mod.ttf) has bit 6 of the flags field of the first contour in the `O` glyph set to 1 — but it does not seem to have any influence over the Apple rasterizer.
-
-**UPDATE 2016-10-22: In MacOS 10.12 Sierra, the situation is different: *EvenOddTT-orig.ttf* renders as it did (with the overlaps visible as “white”) while *EvenOddTT-mod.ttf* renders as expected, with the overlaps invisible (except in smaller sizes “ghost lines” being visible).
+* [EvenOddTT-mod.ttf](EvenOddTT-mod.ttf) has bit 6 of the flags field of the first contour in the `O` glyph set to 1 — but it does not seem to have any influence over the Apple rasterizer in Mac OS X 10.11 El Capitan, but it **does** affect macOS Sierra. In MacOS 10.12 Sierra, the situation is different: *EvenOddTT-orig.ttf* renders as it did (with the overlaps visible as “white”) while *EvenOddTT-mod.ttf* renders as expected, with the overlaps invisible (except in smaller sizes “ghost lines” being visible).
 
 ### Other places where the “inverting” problem is seen
 
