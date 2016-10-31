@@ -1,8 +1,8 @@
 ## EvenOddTT
 
-Example font for testing of the Mac OS X 10.11.4 rendering of TrueType-flavored fonts with overlapping contours. 
+Example font for testing of the Mac OS X 10.11.4 and macOS 10.12.1 rendering of TrueType-flavored fonts with overlapping contours. 
 
-*Prepared 2016-04-13 by Adam Twardoch, licensed under [CC0 / Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)*
+*Prepared 2016-04-13 by Adam Twardoch, updated 2016-10-31, licensed under [CC0 / Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 ### Non-zero-winding vs. even-odd-winding TrueType glyph rendering
 
