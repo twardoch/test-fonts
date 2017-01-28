@@ -6,3 +6,14 @@ include:
 - smpcurmm
 - totopfr
 - varia/160413-EvenOddTT
+title: Test fonts
+tagline: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
+description: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
+url: http://twardoch.github.io/test-fonts/
+baseurl: ''
+paginate: 5
+author:
+    name: Adam Twardoch
+    url: https://github.com/twardoch/
+    email: adam+github@twardoch.com
+version: 1.0.0
