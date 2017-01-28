@@ -1,6 +1,6 @@
 ---
 title: EvenOddTT
-permalink: varia/160413-EvenOddTT
+permalink: /varia/160413-EvenOddTT/index.html
 ---
 
 # EvenOddTT

@@ -1,6 +1,6 @@
 ---
 title: totopfr
-permalink: totopfr
+permalink: /totopfr/index.html
 ---
 
 # totopfr

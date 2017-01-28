@@ -1,6 +1,6 @@
 ---
 title: Variable OpenType test fonts
-permalink: gx
+permalink: /gx/index.html
 ---
 
 # Variable OpenType test fonts

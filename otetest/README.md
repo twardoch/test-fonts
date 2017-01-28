@@ -1,6 +1,6 @@
 ---
 title: OTETest
-permalink: otetest
+permalink: /otetest/index.html
 ---
 
 # OTETest
