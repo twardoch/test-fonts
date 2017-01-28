@@ -1,103 +1,23 @@
 /* from Twitter Bootstrap */
 
 .breadcrumb {
-    padding: .75rem 1rem;
-    margin-bottom: 1rem;
+    display: block;
 
-    font-size: .75rem;
-    list-style: none;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
 
-    border-radius: .25rem;
+    border-radius: 3px;
     background-color: #f9f9f9;
 }
-
-.breadcrumb::after {
-    display: table;
-    clear: both;
-
-    content: "";
+.breadcrumb li {
+    font-size: 85%;
 }
+.breadcrumb > .active {
+    font-weight: bold;
 
-.breadcrumb-item {
-    float: left;
+    color: #515151;
 }
+.breadcrumb > li + li:before {
+    content: "\003E\00a0";
 
-.breadcrumb-item + .breadcrumb-item::before {
-    display: inline-block;
-    padding-right: .5rem;
-    padding-left: .5rem;
-
-    content: "/";
-
-    color: #818a91;
-}
-
-.breadcrumb-item + .breadcrumb-item:hover::before {
-    text-decoration: underline;
-}
-
-.breadcrumb-item + .breadcrumb-item:hover::before {
-    text-decoration: none;
-}
-
-.breadcrumb-item.active {
-    color: #818a91;
-}
-/*if you already use Twitter, you do not need these css lines above, cause they already in Twitter Bootstrap */
-
-/* Additions: imgage integration */
-
-.breadcrumbs {
-    padding-left: 0;
-    margin-bottom: 1rem;
-
-    border-radius: .25rem;
-    background-color: #f1f2ed;
-}
-
-.breadcrumbs::after {
-    display: table;
-    clear: both;
-
-    content: "";
-}
-
-.breadcrumbs .breadcrumb {
-    display: inline-block;
-    padding: 0;
-    margin-bottom: 0;
-
-    border: none;
-}
-
-.breadcrumbs .breadcrumb-item {
-    font-size: 1.3em;
-}
-
-.breadcrumbs a.breadcrumb-item:after {
-    display: inline-block;
-    padding-right: .5rem;
-    padding-left: .5rem;
-
-    content: "/";
-    text-decoration: none;
-}
-
-.breadcrumbs .icon:after {
-    display: inline-block;
-    padding-right: .5rem;
-    padding-left: .5rem;
-
-    content: "/";
-
-    color: #818a91;
-}
-
-.breadcrumbs .icon {
-    display: inline-block;
-}
-
-.breadcrumbs .icon svg {
-    width: .7rem;
-    height: .7rem;
+    color: #bf616a;
 }
