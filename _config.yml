@@ -9,7 +9,7 @@ title: Test fonts
 tagline: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
 description: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
 url: http://twardoch.github.io/test-fonts/
-#baseurl: ''
+baseurl: '/test-fonts'
 paginate: 5
 author:
     name: Adam Twardoch
