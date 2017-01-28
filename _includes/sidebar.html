@@ -25,13 +25,15 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <a class="sidebar-nav-item" href="{{ repository_url }}">GitHub repo</a>
+    {% comment %}
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    {% endcomment %}
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }} <a href="{{ site.github.owner_url }}/">{{ site.github.owner_name }}</a>
     </p>
   </div>
 </div>
