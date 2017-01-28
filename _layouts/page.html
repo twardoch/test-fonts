@@ -7,3 +7,9 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 </div>
+
+<pre>
+      {% for local_variable in local_variables %}
+      local_variable: {{ local_variable | jsonify }}
+      {% endfor %}
+</pre>
