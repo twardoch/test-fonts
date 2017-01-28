@@ -1,6 +1,6 @@
 ---
 title: SmpCurMM
-permalink: /smpcurrmm/index.html
+permalink: /smpcurmm/index.html
 ---
 
 # SmpCurMM
