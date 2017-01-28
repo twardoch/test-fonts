@@ -18,4 +18,5 @@ author:
 version: 1.0.0
 
 encoding: utf-8
-#theme: jekyll-theme-minimal
+
+#theme: lanyon: http://lanyon.getpoole.com/
