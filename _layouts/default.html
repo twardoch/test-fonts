@@ -17,6 +17,12 @@
         {{ content }}
       </article>
 
+      <footer class="footer">
+          <p>
+            &copy; {{ site.time | date: '%Y' }} <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+          </p>
+      </footer>
+
     {% comment %}
     {% include footer.html %}      
     {% endcomment %}
