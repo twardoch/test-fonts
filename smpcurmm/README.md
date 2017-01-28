@@ -1,7 +1,12 @@
+---
+title: SmpCurMM
+---
+
 # SmpCurMM
+
 ### Type 1 Multiple Master test font
 
-A tiny Type 1 Multiple Master font (`.pfb` + `.mmm`) with two axes (Weight and Width), containing a few currency symbols: ` $¤¥₠₪₯`. Can be used for test purposes. 
+A tiny Type 1 Multiple Master font (`.pfb` + `.mmm`) with two axes (Weight and Width), containing a few currency symbols: ` $¤¥₠₪₯`. Can be used for test purposes.
 
 The font is located in the [type1mm](./type1mm/) folder, the [src](./src/) folder contains some sources.
 
