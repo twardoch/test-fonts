@@ -26,6 +26,12 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    <footer>
+        <p>
+          &copy; {{ site.time | date: '%Y' }} <a href="{{ site.github.owner_url }}/">{{ site.github.owner_name }}</a>
+        </p>
+    </footer>
+
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
