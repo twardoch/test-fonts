@@ -13,7 +13,7 @@ This font is a special version of the Bitstream Vera Mono font,
 originally designed by Jim Lyles. This version has been reworked
 by Adam Twardoch.
 
-The fonts is located in the [ttf](./ttf/) folder.
+The fonts is located in the [ttf](https://github.com/twardoch/test-fonts/tree/master/nadyezhdaslone/ttf/) folder.
 
 This font is intended for testing of OpenType Layout features support
 in an application. Using a special test string (see below), the user
@@ -69,4 +69,4 @@ ea eb ec ed ee ef eg eh ei ej ek el em
 en eo ep eq er es et eu ev ew ex ey ez
 ```
 
-You can also consult the [FEA source code](./src/Nadyezhda SL One.fea) for the features defined in the font.
+You can also consult the [FEA source code](https://github.com/twardoch/test-fonts/tree/master/nadyezhdaslone/src/Nadyezhda SL One.fea) for the features defined in the font.

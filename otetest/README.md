@@ -9,7 +9,7 @@ permalink: /otetest/index.html
 
 Digital data copyright (c) 2005 by Adam Twardoch. Based on Nimbus Roman, Copyright (c) 1999 by (URW)++ Design & Development. Licensed under [GPL2](./LICENSE).
 
-The fonts are located in the [ttf](./ttf/) folder.
+The fonts are located in the [ttf](https://github.com/twardoch/test-fonts/tree/master/otetest/ttf/) folder.
 
 These fonts are intended for testing OpenType Layout features and lookups.
 * **otefea1.ttf** replaces the `a` glyph by a ligature glyph that shows the name of the feature applied.
@@ -19,4 +19,4 @@ These fonts are intended for testing OpenType Layout features and lookups.
 * The **otegsub?.ttf** and **otegpos?.ttf** fonts perform various substitutions or positionings to the glyphs `a-d`, mapped to many features, depending on the `GSUB` or `GPOS` LookupType indicated by the filename.
 
 These fonts are intended for testing of OpenType Layout features support
-in an application. Consult the [TTX or FEA source code](./src/) of the `GSUB` or `GPOS` tables for details.
+in an application. Consult the [TTX or FEA source code](https://github.com/twardoch/test-fonts/tree/master/otetest/src/) of the `GSUB` or `GPOS` tables for details.
