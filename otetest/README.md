@@ -12,6 +12,7 @@ Digital data copyright (c) 2005 by Adam Twardoch. Based on Nimbus Roman, Copyrig
 The fonts are located in the [ttf](https://github.com/twardoch/test-fonts/tree/master/otetest/ttf/) folder.
 
 These fonts are intended for testing OpenType Layout features and lookups.
+
 * **otefea1.ttf** replaces the `a` glyph by a ligature glyph that shows the name of the feature applied.
 * **otefea2.ttf** replaces the glyphs `a-z` with ligature glyphs showing the name of the feature applied.
 * **otefea3.ttf** replaces the glyphs `one`, `two`, `three`, `four` or `five` with ligature glyphs showing the name of the feature applied.
