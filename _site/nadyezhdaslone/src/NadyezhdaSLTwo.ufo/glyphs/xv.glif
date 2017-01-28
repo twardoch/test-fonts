@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xv" format="1">
+  <advance width="1233"/>
+  <outline>
+    <contour>
+      <point x="308" y="173" type="line" name="iv01"/>
+      <point x="439" y="796" type="line" name="av02"/>
+      <point x="588" y="796" type="line"/>
+      <point x="410" y="50" type="line" name="av01"/>
+      <point x="206" y="50" type="line"/>
+      <point x="28" y="796" type="line" name="av03"/>
+      <point x="177" y="796" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbnYiIHBvaW50PSJhdjAxIiBhbGlnbj0icm91
+bmQiLz4KICAgIDx0dGMgY29kZT0iYWxpZ252IiBw
+b2ludD0iYXYwMiIgYWxpZ249InJvdW5kIi8+CiAg
+ICA8dHRjIGNvZGU9ImFsaWdudiIgcG9pbnQ9ImF2
+MDMiIGFsaWduPSJyb3VuZCIvPgogICAgPHR0YyBj
+b2RlPSJpbnRlcnBvbGF0ZXYiIHBvaW50PSJpdjAx
+IiBwb2ludDE9ImF2MDEiIHBvaW50Mj0iYXYwMiIv
+PgogIDwvdHRQcm9ncmFtPgo=
+  </data>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaXYwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjcxIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI3OTYiIHdpZHRoPSItMjAiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
