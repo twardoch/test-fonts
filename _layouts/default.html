@@ -10,27 +10,29 @@
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
-      <div class="masthead">
+
+      <header class="masthead">
         <div class="container">
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small><a href="{{ site.github.repository_url }}/">{{ site.github.repository_nwo }}</a></small>
           </h3>
         </div>
-      </div>
+      </header>
 
-      <div class="container content">
+      <article class="container content">
         {{ content }}
-      </div>
+      </article>
+
+      <footer class="footer">
+          <p>
+            &copy; {{ site.time | date: '%Y' }} <a href="{{ site.github.owner_url }}/">{{ site.github.owner_name }}</a>
+          </p>
+      </footer>
+
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <footer>
-        <p>
-          &copy; {{ site.time | date: '%Y' }} <a href="{{ site.github.owner_url }}/">{{ site.github.owner_name }}</a>
-        </p>
-    </footer>
 
     <script>
       (function(document) {
