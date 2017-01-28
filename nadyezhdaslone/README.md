@@ -1,6 +1,6 @@
 ---
 title: Nadyezhda SL One
-permalink: nadyezhdaslone/README.md
+permalink: /nadyezhdaslone/index.html
 ---
 
 # Nadyezhda SL One
