@@ -10,4 +10,4 @@ A small collection of test fonts (OpenType and Multiple Master) for testing impl
 * [TotoPFR](totopfr)
 * [EvenOddTT](varia/160413-EvenOddTT)
 
-— Adam Twardoch, 2017-01-28 (n)
+— Adam Twardoch, 2017-01-28 (o)
