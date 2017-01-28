@@ -1,5 +1,6 @@
 ---
 title: Nadyezhda SL One
+permalink: nadyezhdaslone
 ---
 
 # Nadyezhda SL One

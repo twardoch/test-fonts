@@ -1,5 +1,6 @@
 ---
 title: OTETest
+permalink: otetest
 ---
 
 # OTETest

@@ -1,5 +1,6 @@
 ---
 title: EvenOddTT
+permalink: varia/160413-EvenOddTT
 ---
 
 # EvenOddTT

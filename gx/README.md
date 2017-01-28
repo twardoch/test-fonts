@@ -1,5 +1,6 @@
 ---
 title: Variable OpenType test fonts
+permalink: gx
 ---
 
 # Variable OpenType test fonts

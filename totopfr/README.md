@@ -1,5 +1,6 @@
 ---
 title: totopfr
+permalink: totopfr
 ---
 
 # totopfr
