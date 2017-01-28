@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-include:
-- gx
-- nadyezhdaslone
-- otetest
-- smpcurmm
-- totopfr
-- varia/160413-EvenOddTT
+#include:
+#- gx
+#- nadyezhdaslone
+#- otetest
+#- smpcurmm
+#- totopfr
+#- varia/160413-EvenOddTT
