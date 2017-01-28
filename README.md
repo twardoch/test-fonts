@@ -10,4 +10,9 @@ A small collection of test fonts (OpenType and Multiple Master) for testing impl
 * [TotoPFR](totopfr)
 * [EvenOddTT](varia/160413-EvenOddTT)
 
+* [Nadyezhda SL One](nadyezhdaslone/README)
+* [Nadyezhda SL One](nadyezhdaslone/README.md)
+* [Nadyezhda SL One](nadyezhdaslone/)
+
+
 — Adam Twardoch, 2017-01-28 (e)
