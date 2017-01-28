@@ -8,6 +8,7 @@ layout: default
   {{ content }}
 </div>
 
+!!!
 <pre>
       {% for local_variable in local_variables %}
       local_variable: {{ local_variable | jsonify }}
@@ -15,3 +16,4 @@ layout: default
       page: {{ page | jsonify }}
       site: {{ site | jsonify }}
 </pre>
+!!!
