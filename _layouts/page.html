@@ -8,12 +8,6 @@ layout: default
   {{ content }}
 </div>
 
-!!!
 <pre>
-      {% for local_variable in local_variables %}
-      local_variable: {{ local_variable | jsonify }}
-      {% endfor %}
-      page: {{ page | jsonify }}
-      site: {{ site | jsonify }}
+{{ site.github.baseurl | jsonify }}
 </pre>
-!!!
