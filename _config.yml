@@ -6,7 +6,7 @@ include:
 - totopfr
 - varia/160413-EvenOddTT
 title: Test fonts
-tagline: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
+tagline: Various OpenType and Multiple Master test fonts for developers
 description: A small collection of test fonts (OpenType and Multiple Master) for testing implementations of font formats. Please see subfolders for more info and licenses.
 url: http://twardoch.github.io/test-fonts/
 baseurl: '/test-fonts'
