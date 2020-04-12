@@ -1,151 +1,2744 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+<ttFont sfntVersion="OTTO" ttLibVersion="3.44">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="space"/>
+    <GlyphID id="2" name="exclam"/>
+    <GlyphID id="3" name="quotedbl"/>
+    <GlyphID id="4" name="numbersign"/>
+    <GlyphID id="5" name="dollar"/>
+    <GlyphID id="6" name="percent"/>
+    <GlyphID id="7" name="ampersand"/>
+    <GlyphID id="8" name="parenleft"/>
+    <GlyphID id="9" name="parenright"/>
+    <GlyphID id="10" name="asterisk"/>
+    <GlyphID id="11" name="plus"/>
+    <GlyphID id="12" name="comma"/>
+    <GlyphID id="13" name="hyphen"/>
+    <GlyphID id="14" name="period"/>
+    <GlyphID id="15" name="slash"/>
+    <GlyphID id="16" name="zero"/>
+    <GlyphID id="17" name="one"/>
+    <GlyphID id="18" name="two"/>
+    <GlyphID id="19" name="three"/>
+    <GlyphID id="20" name="four"/>
+    <GlyphID id="21" name="five"/>
+    <GlyphID id="22" name="six"/>
+    <GlyphID id="23" name="seven"/>
+    <GlyphID id="24" name="eight"/>
+    <GlyphID id="25" name="nine"/>
+    <GlyphID id="26" name="colon"/>
+    <GlyphID id="27" name="semicolon"/>
+    <GlyphID id="28" name="less"/>
+    <GlyphID id="29" name="equal"/>
+    <GlyphID id="30" name="greater"/>
+    <GlyphID id="31" name="question"/>
+    <GlyphID id="32" name="at"/>
+    <GlyphID id="33" name="A"/>
+    <GlyphID id="34" name="B"/>
+    <GlyphID id="35" name="C"/>
+    <GlyphID id="36" name="D"/>
+    <GlyphID id="37" name="E"/>
+    <GlyphID id="38" name="F"/>
+    <GlyphID id="39" name="G"/>
+    <GlyphID id="40" name="H"/>
+    <GlyphID id="41" name="I"/>
+    <GlyphID id="42" name="J"/>
+    <GlyphID id="43" name="K"/>
+    <GlyphID id="44" name="L"/>
+    <GlyphID id="45" name="M"/>
+    <GlyphID id="46" name="N"/>
+    <GlyphID id="47" name="O"/>
+    <GlyphID id="48" name="P"/>
+    <GlyphID id="49" name="Q"/>
+    <GlyphID id="50" name="R"/>
+    <GlyphID id="51" name="S"/>
+    <GlyphID id="52" name="T"/>
+    <GlyphID id="53" name="U"/>
+    <GlyphID id="54" name="V"/>
+    <GlyphID id="55" name="W"/>
+    <GlyphID id="56" name="X"/>
+    <GlyphID id="57" name="Y"/>
+    <GlyphID id="58" name="Z"/>
+    <GlyphID id="59" name="bracketleft"/>
+    <GlyphID id="60" name="backslash"/>
+    <GlyphID id="61" name="bracketright"/>
+    <GlyphID id="62" name="asciicircum"/>
+    <GlyphID id="63" name="underscore"/>
+    <GlyphID id="64" name="a"/>
+    <GlyphID id="65" name="b"/>
+    <GlyphID id="66" name="c"/>
+    <GlyphID id="67" name="d"/>
+    <GlyphID id="68" name="e"/>
+    <GlyphID id="69" name="f"/>
+    <GlyphID id="70" name="g"/>
+    <GlyphID id="71" name="h"/>
+    <GlyphID id="72" name="i"/>
+    <GlyphID id="73" name="j"/>
+    <GlyphID id="74" name="k"/>
+    <GlyphID id="75" name="l"/>
+    <GlyphID id="76" name="m"/>
+    <GlyphID id="77" name="n"/>
+    <GlyphID id="78" name="o"/>
+    <GlyphID id="79" name="p"/>
+    <GlyphID id="80" name="q"/>
+    <GlyphID id="81" name="r"/>
+    <GlyphID id="82" name="s"/>
+    <GlyphID id="83" name="t"/>
+    <GlyphID id="84" name="u"/>
+    <GlyphID id="85" name="v"/>
+    <GlyphID id="86" name="w"/>
+    <GlyphID id="87" name="x"/>
+    <GlyphID id="88" name="y"/>
+    <GlyphID id="89" name="z"/>
+    <GlyphID id="90" name="braceleft"/>
+    <GlyphID id="91" name="bar"/>
+    <GlyphID id="92" name="braceright"/>
+    <GlyphID id="93" name="asciitilde"/>
+    <GlyphID id="94" name="quotesingle"/>
+    <GlyphID id="95" name="grave"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.0"/>
+    <checkSumAdjustment value="0xcbd432b7"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00000011"/>
+    <unitsPerEm value="1000"/>
+    <created value="Wed Apr  8 23:17:17 2020"/>
+    <modified value="Wed Apr  8 21:19:04 2020"/>
+    <xMin value="-63"/>
+    <yMin value="-231"/>
+    <xMax value="950"/>
+    <yMax value="744"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="3"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="696"/>
+    <descent value="-304"/>
+    <lineGap value="200"/>
+    <advanceWidthMax value="968"/>
+    <minLeftSideBearing value="-63"/>
+    <minRightSideBearing value="-117"/>
+    <xMaxExtent value="950"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="96"/>
+  </hhea>
+
+  <maxp>
+    <tableVersion value="0x5000"/>
+    <numGlyphs value="96"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="3"/>
+    <xAvgCharWidth value="512"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000100"/>
+    <ySubscriptXSize value="650"/>
+    <ySubscriptYSize value="600"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="75"/>
+    <ySuperscriptXSize value="650"/>
+    <ySuperscriptYSize value="600"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="350"/>
+    <yStrikeoutSize value="50"/>
+    <yStrikeoutPosition value="275"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="0"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="5"/>
+      <bProportion value="0"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="UKWN"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="32"/>
+    <usLastCharIndex value="126"/>
+    <sTypoAscender value="696"/>
+    <sTypoDescender value="-304"/>
+    <sTypoLineGap value="200"/>
+    <usWinAscent value="769"/>
+    <usWinDescent value="231"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="459"/>
+    <sCapHeight value="680"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="1"/>
+  </OS_2>
+
+  <name>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      OTEGSUB5
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1.000;UKWN;OTEGSUB5
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      OTEGSUB5
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.000;PS Version 1.000 2005 initial rele;hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      OTEGSUB5
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      OTEGSUB5
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      1.000;UKWN;OTEGSUB5
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      OTEGSUB5
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.000;PS Version 1.000 2005 initial rele;hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      OTEGSUB5
+    </namerecord>
+  </name>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+    </cmap_format_4>
+    <cmap_format_6 platformID="1" platEncID="0" language="0">
+      <map code="0x9" name="space"/>
+      <map code="0xd" name="space"/>
+      <map code="0x20" name="space"/>
+      <map code="0x21" name="exclam"/>
+      <map code="0x22" name="quotedbl"/>
+      <map code="0x23" name="numbersign"/>
+      <map code="0x24" name="dollar"/>
+      <map code="0x25" name="percent"/>
+      <map code="0x26" name="ampersand"/>
+      <map code="0x27" name="quotesingle"/>
+      <map code="0x28" name="parenleft"/>
+      <map code="0x29" name="parenright"/>
+      <map code="0x2a" name="asterisk"/>
+      <map code="0x2b" name="plus"/>
+      <map code="0x2c" name="comma"/>
+      <map code="0x2d" name="hyphen"/>
+      <map code="0x2e" name="period"/>
+      <map code="0x2f" name="slash"/>
+      <map code="0x30" name="zero"/>
+      <map code="0x31" name="one"/>
+      <map code="0x32" name="two"/>
+      <map code="0x33" name="three"/>
+      <map code="0x34" name="four"/>
+      <map code="0x35" name="five"/>
+      <map code="0x36" name="six"/>
+      <map code="0x37" name="seven"/>
+      <map code="0x38" name="eight"/>
+      <map code="0x39" name="nine"/>
+      <map code="0x3a" name="colon"/>
+      <map code="0x3b" name="semicolon"/>
+      <map code="0x3c" name="less"/>
+      <map code="0x3d" name="equal"/>
+      <map code="0x3e" name="greater"/>
+      <map code="0x3f" name="question"/>
+      <map code="0x40" name="at"/>
+      <map code="0x41" name="A"/>
+      <map code="0x42" name="B"/>
+      <map code="0x43" name="C"/>
+      <map code="0x44" name="D"/>
+      <map code="0x45" name="E"/>
+      <map code="0x46" name="F"/>
+      <map code="0x47" name="G"/>
+      <map code="0x48" name="H"/>
+      <map code="0x49" name="I"/>
+      <map code="0x4a" name="J"/>
+      <map code="0x4b" name="K"/>
+      <map code="0x4c" name="L"/>
+      <map code="0x4d" name="M"/>
+      <map code="0x4e" name="N"/>
+      <map code="0x4f" name="O"/>
+      <map code="0x50" name="P"/>
+      <map code="0x51" name="Q"/>
+      <map code="0x52" name="R"/>
+      <map code="0x53" name="S"/>
+      <map code="0x54" name="T"/>
+      <map code="0x55" name="U"/>
+      <map code="0x56" name="V"/>
+      <map code="0x57" name="W"/>
+      <map code="0x58" name="X"/>
+      <map code="0x59" name="Y"/>
+      <map code="0x5a" name="Z"/>
+      <map code="0x5b" name="bracketleft"/>
+      <map code="0x5c" name="backslash"/>
+      <map code="0x5d" name="bracketright"/>
+      <map code="0x5e" name="asciicircum"/>
+      <map code="0x5f" name="underscore"/>
+      <map code="0x60" name="grave"/>
+      <map code="0x61" name="a"/>
+      <map code="0x62" name="b"/>
+      <map code="0x63" name="c"/>
+      <map code="0x64" name="d"/>
+      <map code="0x65" name="e"/>
+      <map code="0x66" name="f"/>
+      <map code="0x67" name="g"/>
+      <map code="0x68" name="h"/>
+      <map code="0x69" name="i"/>
+      <map code="0x6a" name="j"/>
+      <map code="0x6b" name="k"/>
+      <map code="0x6c" name="l"/>
+      <map code="0x6d" name="m"/>
+      <map code="0x6e" name="n"/>
+      <map code="0x6f" name="o"/>
+      <map code="0x70" name="p"/>
+      <map code="0x71" name="q"/>
+      <map code="0x72" name="r"/>
+      <map code="0x73" name="s"/>
+      <map code="0x74" name="t"/>
+      <map code="0x75" name="u"/>
+      <map code="0x76" name="v"/>
+      <map code="0x77" name="w"/>
+      <map code="0x78" name="x"/>
+      <map code="0x79" name="y"/>
+      <map code="0x7a" name="z"/>
+      <map code="0x7b" name="braceleft"/>
+      <map code="0x7c" name="bar"/>
+      <map code="0x7d" name="braceright"/>
+      <map code="0x7e" name="asciitilde"/>
+    </cmap_format_6>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+    </cmap_format_4>
+  </cmap>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-50"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <CFF>
+    <major value="1"/>
+    <minor value="0"/>
+    <CFFFont name="OTEGSUB5">
+      <version value="Version 1.000 2005 initial release"/>
+      <Copyright value="Copyright (c) 2005 by Adam Twardoch. Based on Nimbus Roman, Copyright (c) 1999 by (URW)++ Design &amp; Development. Licensed under GPL2."/>
+      <FullName value="OTE GSUB5"/>
+      <FamilyName value="OTE GSUB5"/>
+      <Weight value="Regular"/>
+      <isFixedPitch value="0"/>
+      <ItalicAngle value="0"/>
+      <UnderlinePosition value="-75"/>
+      <UnderlineThickness value="50"/>
+      <PaintType value="0"/>
+      <CharstringType value="2"/>
+      <FontMatrix value="0.001 0 0 0.001 0 0"/>
+      <FontBBox value="-63 -231 950 744"/>
+      <StrokeWidth value="0"/>
+      <!-- charset is dumped separately as the 'GlyphOrder' element -->
+      <Encoding name="StandardEncoding"/>
+      <Private>
+        <BlueValues value="0 0"/>
+        <BlueScale value="0.039625"/>
+        <BlueShift value="7"/>
+        <BlueFuzz value="1"/>
+        <ForceBold value="0"/>
+        <LanguageGroup value="0"/>
+        <ExpansionFactor value="0.06"/>
+        <initialRandomSeed value="0"/>
+        <defaultWidthX value="510"/>
+        <nominalWidthX value="552"/>
+      </Private>
+      <CharStrings>
+        <CharString name=".notdef">
+          -298 endchar
+        </CharString>
+        <CharString name="A">
+          198 380 696 rmoveto
+          249 -589 13 -31 12 -22 17 -15 rlinecurve
+          -15 16 22 -6 33 hhcurveto
+          -18 -280 18 vlineto
+          73 16 29 60 -27 hvcurveto
+          -51 120 rlineto
+          -265 hlineto
+          -52 -120 -11 -24 -5 -23 8 -16 rlinecurve
+          -16 8 23 -10 44 hhcurveto
+          -18 -217 18 vlineto
+          49 25 36 53 23 hvcurveto
+          253 589 rlineto
+          -133 -431 rmoveto
+          231 hlineto
+          -113 274 rlineto
+          endchar
+        </CharString>
+        <CharString name="B">
+          120 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 345 vlineto
+          65 57 -17 -29 40 hvcurveto
+          39 -29 23 -43 -49 vvcurveto
+          -37 -7 -29 -16 -24 vhcurveto
+          -17 -25 -29 -22 -44 -23 rrcurveto
+          -2 vlineto
+          88 -15 57 -60 -92 vvcurveto
+          -52 -22 -46 -37 -32 vhcurveto
+          -33 -37 -55 -21 -65 hhcurveto
+          -385 18 hlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          104 269 rmoveto
+          13 -4 27 -1 26 -1 rrcurveto
+          -1 13 12 0 12 12 9 0 7 hhcurveto
+          41 33 15 24 23 hvcurveto
+          23 24 12 33 37 vvcurveto
+          40 -14 36 -28 26 vhcurveto
+          26 -29 -46 15 -61 hhcurveto
+          -17 -33 -2 -9 -35 hvcurveto
+          -585 vmoveto
+          12 -3 19 -2 21 -2 rrcurveto
+          -2 20 22 -2 19 hhcurveto
+          60 45 16 26 29 hvcurveto
+          28 26 14 34 39 vvcurveto
+          43 -12 39 -29 28 vhcurveto
+          28 -29 -45 18 -67 -4 -6 0 -8 hhcurveto
+          -1 -8 -9 0 -10 hhcurveto
+          -20 -1 -22 -2 -20 -3 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="C">
+          133 635 465 rmoveto
+          -24 hlineto
+          -7 55 -26 49 -37 36 rrcurveto
+          35 -37 -49 22 -49 hhcurveto
+          -71 -66 -34 -61 -47 hvcurveto
+          -45 -60 -23 -87 -92 vvcurveto
+          -96 30 -76 48 -52 vhcurveto
+          -52 48 66 -29 75 hhcurveto
+          44 40 16 27 37 hvcurveto
+          36 27 32 36 25 40 17 -10 rcurveline
+          -25 -45 -38 -44 -44 -32 rrcurveto
+          -33 -45 -54 -21 -60 hhcurveto
+          -103 -88 39 63 -63 hvcurveto
+          -63 63 -37 87 96 vvcurveto
+          100 42 92 65 66 vhcurveto
+          66 64 90 40 96 hhcurveto
+          60 37 -11 -12 25 hvcurveto
+          12 -6 10 -5 8 -5 rrcurveto
+          -5 8 8 -2 7 hhcurveto
+          15 17 21 25 5 hvcurveto
+          17 hlineto
+          endchar
+        </CharString>
+        <CharString name="D">
+          185 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 302 vlineto
+          127 90 -25 -57 61 hvcurveto
+          70 -65 35 -84 -103 vvcurveto
+          -96 -32 -86 -60 -63 vhcurveto
+          -63 -61 -90 -38 -115 hhcurveto
+          -327 18 hlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          104 -58 rmoveto
+          -13 35 36 -3 39 hhcurveto
+          69 65 30 54 45 hvcurveto
+          45 54 29 76 96 vvcurveto
+          84 -27 75 -44 55 vhcurveto
+          55 -45 -64 33 -73 hhcurveto
+          -51 -27 -8 -9 -32 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="E">
+          73 542 680 rmoveto
+          8 -162 rlineto
+          -18 hlineto
+          84 -16 -35 44 -89 hhcurveto
+          -172 -258 147 hlineto
+          28 25 6 14 19 hvcurveto
+          19 14 11 21 33 vvcurveto
+          18 -230 -18 hlineto
+          40 -11 28 -18 17 vhcurveto
+          16 -18 -25 7 -28 hhcurveto
+          -149 -278 hlineto
+          -23 1 16 -19 23 hhcurveto
+          142 hlineto
+          48 38 18 28 30 hvcurveto
+          30 28 22 39 13 44 rrcurveto
+          24 hlineto
+          -61 -191 rlineto
+          -526 18 hlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          464 vlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="F">
+          0 524 680 rmoveto
+          8 -162 rlineto
+          -18 hlineto
+          84 -16 -35 44 -89 hhcurveto
+          -154 -258 103 hlineto
+          28 25 6 14 19 hvcurveto
+          19 14 11 21 33 vvcurveto
+          18 -230 -18 hlineto
+          40 -11 28 -18 17 vhcurveto
+          16 -18 -25 7 -28 hhcurveto
+          -105 -246 hlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          464 vlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="G">
+          206 647 465 rmoveto
+          -24 hlineto
+          -15 56 -22 49 -35 36 rrcurveto
+          35 -36 -48 21 -61 hhcurveto
+          -71 -66 -34 -61 -47 hvcurveto
+          -45 -60 -23 -87 -92 vvcurveto
+          -96 30 -76 48 -52 vhcurveto
+          -52 48 66 -29 75 hhcurveto
+          55 42 16 31 35 hvcurveto
+          190 vlineto
+          32 -5 22 -14 13 vhcurveto
+          13 -14 -25 5 -37 hhcurveto
+          18 268 -18 vlineto
+          -52 -17 -21 -64 hvcurveto
+          -210 vlineto
+          -36 -21 -35 -17 -43 -11 rrcurveto
+          -11 -43 -49 -6 -65 hhcurveto
+          -103 -88 39 63 -63 hvcurveto
+          -63 63 -37 87 96 vvcurveto
+          100 42 92 65 66 vhcurveto
+          66 64 90 40 96 hhcurveto
+          60 40 -11 -12 28 hvcurveto
+          14 -6 12 -5 9 -5 rrcurveto
+          -5 9 8 -2 7 hhcurveto
+          15 17 21 25 5 hvcurveto
+          17 hlineto
+          endchar
+        </CharString>
+        <CharString name="H">
+          199 220 336 rmoveto
+          -228 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          464 vlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -202 311 202 vlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -464 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          228 vlineto
+          endchar
+        </CharString>
+        <CharString name="I">
+          -210 119 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -464 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="J">
+          -155 187 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -354 vlineto
+          -157 -77 -77 -113 -24 -24 6 13 -18 vhcurveto
+          -18 13 -13 19 27 vvcurveto
+          31 1 29 19 25 hhcurveto
+          35 11 -23 -24 8 hvcurveto
+          -24 8 5 -23 27 hhcurveto
+          23 11 28 37 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="K">
+          200 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -193 vlineto
+          217 196 4 4 5 5 5 5 rlinecurve
+          11 11 9 10 7 12 rrcurveto
+          3 5 2 6 5 vvcurveto
+          5 -4 6 -8 5 vhcurveto
+          5 -8 -17 3 -26 hhcurveto
+          18 251 -19 vlineto
+          -31 -26 -5 -12 -25 hvcurveto
+          -25 -12 -26 -20 -32 -29 -202 -189 rcurveline
+          276 -275 47 -47 27 -24 25 -14 rlinecurve
+          -14 25 22 -2 35 hhcurveto
+          -18 -317 18 vlineto
+          37 11 17 19 5 -3 8 -6 10 hvcurveto
+          -7 9 -9 11 -13 13 -234 235 rcurveline
+          -237 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="L">
+          76 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -487 vlineto
+          -28 16 -23 23 vhcurveto
+          127 hlineto
+          57 45 17 28 33 hvcurveto
+          32 28 22 39 15 44 20 -5 rcurveline
+          -59 -185 rlineto
+          -531 18 hlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="M">
+          374 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 202 vlineto
+          241 -522 rlineto
+          5 hlineto
+          236 522 rlineto
+          200 -18 hlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -464 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          449 -4 vlineto
+          -253 -557 rlineto
+          -21 hlineto
+          -257 553 rlineto
+          -7 -445 hlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -238 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="N">
+          187 113 566 rmoveto
+          28 -13 25 -20 17 vhcurveto
+          16 -21 -28 10 -31 hhcurveto
+          18 171 vlineto
+          405 -497 rlineto
+          4 389 hlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 238 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -588 -24 vlineto
+          -439 553 rlineto
+          -4 -429 hlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -238 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="O">
+          194 373 -16 rmoveto
+          -96 -86 41 65 -60 hvcurveto
+          -61 65 -38 90 99 vvcurveto
+          97 38 88 61 64 vhcurveto
+          64 60 86 39 96 hhcurveto
+          96 86 -39 -64 61 hvcurveto
+          60 -64 38 -88 -97 vvcurveto
+          -99 -38 -90 -60 -65 vhcurveto
+          -65 -61 -86 -41 -96 hhcurveto
+          34 vmoveto
+          71 55 35 58 37 hvcurveto
+          36 58 20 80 95 vvcurveto
+          93 -20 80 -36 56 vhcurveto
+          56 -37 -55 33 -71 hhcurveto
+          -72 -55 -33 -56 -36 hvcurveto
+          -37 -56 -19 -80 -93 vvcurveto
+          -95 19 -80 37 -58 vhcurveto
+          -58 36 55 -35 72 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="P">
+          24 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 292 vlineto
+          64 59 -18 -32 42 hvcurveto
+          42 -33 25 -50 -61 vvcurveto
+          -63 -25 -44 -38 -31 vhcurveto
+          -31 -38 -51 -14 -51 hhcurveto
+          -21 -25 2 2 -22 hvcurveto
+          -22 2 -19 3 -12 3 rrcurveto
+          -207 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          104 245 rmoveto
+          -7 23 28 -8 28 hhcurveto
+          44 34 16 25 22 hvcurveto
+          22 25 11 36 39 vvcurveto
+          45 -15 42 -25 29 vhcurveto
+          29 -25 -34 18 -39 hhcurveto
+          -19 -24 1 -11 -31 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="Q">
+          186 702 -213 rmoveto
+          -91 -91 31 41 -76 hvcurveto
+          -76 41 -63 53 -33 45 -71 19 -59 49 -42 64 rrcurveto
+          -42 63 -26 76 75 vvcurveto
+          97 36 88 61 64 vhcurveto
+          64 60 84 39 96 hhcurveto
+          96 84 -39 -64 61 hvcurveto
+          60 -64 36 -88 -97 vvcurveto
+          -79 -27 -78 -45 -64 vhcurveto
+          -45 -64 -64 -48 -75 -17 13 -45 34 -47 45 -36 rrcurveto
+          -36 44 56 -25 60 hhcurveto
+          -333 213 rmoveto
+          141 17 78 120 189 vvcurveto
+          93 -20 80 -36 56 vhcurveto
+          56 -37 -55 33 -71 hhcurveto
+          -72 -55 -33 -56 -36 hvcurveto
+          -37 -56 -19 -80 -93 vvcurveto
+          -95 19 -80 37 -58 vhcurveto
+          -58 36 55 -35 72 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="R">
+          139 116 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 310 vlineto
+          75 56 -18 -31 37 hvcurveto
+          37 -32 19 -44 -52 vvcurveto
+          -85 -60 -64 -91 -24 vhcurveto
+          145 -213 rlineto
+          -76 53 48 -23 53 hhcurveto
+          -18 -194 vlineto
+          -215 320 rlineto
+          -73 -212 hlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          104 246 rmoveto
+          60 hlineto
+          47 40 14 25 29 hvcurveto
+          29 25 17 37 44 vvcurveto
+          40 -13 37 -23 27 vhcurveto
+          27 -24 -33 16 -37 hhcurveto
+          -15 -19 -1 -3 -17 hvcurveto
+          -17 -3 -16 -3 -8 -3 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="S">
+          8 446 459 rmoveto
+          124 -12 -65 75 -109 hhcurveto
+          -37 -31 -15 -21 -21 hvcurveto
+          -21 -21 -12 -27 -25 vvcurveto
+          -48 41 -36 56 -33 vhcurveto
+          27 -17 30 -16 32 -17 64 -33 58 -38 37 -48 rrcurveto
+          18 -24 9 -28 -32 vvcurveto
+          -53 -20 -49 -39 -35 vhcurveto
+          -36 -40 -56 -22 -72 hhcurveto
+          -47 -31 9 11 -28 hvcurveto
+          -11 4 -10 4 -9 4 rrcurveto
+          4 -10 -11 2 -11 hhcurveto
+          -19 -10 -18 -20 -3 hvcurveto
+          -18 230 18 hlineto
+          5 -61 27 -49 38 -32 rrcurveto
+          -33 38 49 -17 51 hhcurveto
+          33 32 11 20 24 hvcurveto
+          24 19 16 27 35 vvcurveto
+          55 -41 38 -53 33 vhcurveto
+          -27 17 -29 16 -31 15 -63 31 -55 37 -36 49 rrcurveto
+          -18 24 -9 29 35 vvcurveto
+          52 20 46 36 33 vhcurveto
+          32 36 50 20 60 hhcurveto
+          40 18 -8 -8 27 hvcurveto
+          11 -3 12 -5 11 -5 rrcurveto
+          -6 11 10 -3 10 hhcurveto
+          19 18 22 16 hvcurveto
+          18 -237 hlineto
+          endchar
+        </CharString>
+        <CharString name="T">
+          38 570 680 rmoveto
+          8 -162 rlineto
+          -18 hlineto
+          84 -16 -35 44 -89 hhcurveto
+          -74 -538 hlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          538 -74 vlineto
+          -89 -35 -44 -84 -16 hvcurveto
+          -18 hlineto
+          8 162 rlineto
+          endchar
+        </CharString>
+        <CharString name="U">
+          200 113 572 rmoveto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 296 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -333 vlineto
+          -59 19 -51 33 -39 vhcurveto
+          -39 33 48 -23 59 hhcurveto
+          60 48 23 39 33 hvcurveto
+          32 39 19 51 59 vvcurveto
+          333 vlineto
+          36 -6 23 -15 13 vhcurveto
+          13 -16 -24 5 -35 hhcurveto
+          18 238 -18 vlineto
+          -35 -24 -5 -13 -15 hvcurveto
+          -16 -13 -6 -23 -36 vvcurveto
+          -333 vlineto
+          -69 -20 -64 -43 -46 vhcurveto
+          -46 -44 -68 -30 -96 hhcurveto
+          -85 -66 29 47 -44 hvcurveto
+          -45 47 -23 63 71 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="V">
+          172 278 680 rmoveto
+          -18 vlineto
+          -40 -21 -10 -16 -8 hvcurveto
+          -9 -17 5 -25 13 -32 183 -423 rcurveline
+          168 416 rlineto
+          64 27 -16 43 -69 hhcurveto
+          18 210 -18 vlineto
+          -47 -29 -38 -77 -31 hvcurveto
+          -228 -563 rlineto
+          -26 hlineto
+          -258 594 rlineto
+          60 -27 -26 24 -49 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="W">
+          394 252 680 rmoveto
+          -18 vlineto
+          -25 -18 -4 -7 -9 hvcurveto
+          -10 -7 -5 -9 -10 vvcurveto
+          -16 6 -23 11 -28 vhcurveto
+          140 -395 113 318 -26 74 -12 33 -10 28 -15 18 rlinecurve
+          18 -16 -21 10 -32 hhcurveto
+          18 265 -18 vlineto
+          -25 -17 -4 -7 -10 hvcurveto
+          -11 -8 -5 -9 -10 vvcurveto
+          -17 5 -23 10 -28 vhcurveto
+          136 -393 138 396 rlineto
+          69 24 -11 34 -75 hhcurveto
+          1 18 rlineto
+          202 -18 hlineto
+          -31 -17 -10 -17 -13 hvcurveto
+          -13 -17 -9 -28 -12 -33 -195 -573 rcurveline
+          -24 hlineto
+          -157 431 -153 -431 rlineto
+          -24 hlineto
+          -204 570 -13 37 -10 28 -14 17 rlinecurve
+          17 -14 -19 9 -28 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="X">
+          190 217 114 rmoveto
+          -21 -21 -10 -24 5 -19 rrcurveto
+          -19 5 20 -13 36 hhcurveto
+          -18 -252 18 vlineto
+          28 30 11 17 29 hvcurveto
+          28 16 26 22 17 23 177 231 rcurveline
+          -167 241 rlineto
+          51 -35 -44 32 -65 hhcurveto
+          18 319 -18 vlineto
+          -75 -14 -30 -56 37 hvcurveto
+          107 -158 124 157 20 25 9 22 -5 16 rlinecurve
+          -3 7 -6 6 -11 5 rrcurveto
+          4 -11 -15 2 -21 hhcurveto
+          18 239 -19 vlineto
+          -53 1 -34 -20 -44 -56 -166 -209 rcurveline
+          192 -269 16 -24 15 -22 19 -16 rlinecurve
+          -17 19 21 -11 31 hhcurveto
+          -18 -295 17 vlineto
+          75 1 8 35 -36 55 -126 190 rcurveline
+          endchar
+        </CharString>
+        <CharString name="Y">
+          142 280 680 rmoveto
+          -18 vlineto
+          -56 -26 -18 -29 1 hvcurveto
+          -13 6 -15 12 -19 vhcurveto
+          147 -236 153 246 rlineto
+          7 13 3 11 11 vvcurveto
+          33 -24 16 -47 vhcurveto
+          18 239 -18 vlineto
+          -59 -28 -25 -60 -39 hvcurveto
+          -178 -283 rlineto
+          -186 vlineto
+          -36 6 -23 16 -13 vhcurveto
+          -13 15 24 -5 35 hhcurveto
+          -18 -296 18 vlineto
+          35 24 5 13 16 hvcurveto
+          15 13 6 23 36 vvcurveto
+          175 vlineto
+          -201 302 -15 21 -12 21 -15 13 rlinecurve
+          13 -15 -18 9 -27 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="Z">
+          70 597 680 rmoveto
+          -451 -641 rlineto
+          275 hlineto
+          35 33 15 25 28 hvcurveto
+          27 25 21 34 15 40 rrcurveto
+          18 hlineto
+          -32 -178 rlineto
+          -556 17 hlineto
+          438 624 rlineto
+          -210 hlineto
+          -51 -32 -7 -20 -23 hvcurveto
+          -24 -20 -11 -33 -8 -52 rrcurveto
+          -18 hlineto
+          15 171 rlineto
+          endchar
+        </CharString>
+        <CharString name="a">
+          -107 365 87 rmoveto
+          -19 7 -16 16 23 13 17 23 15 vhcurveto
+          -34 vlineto
+          -36 -21 -35 -32 -51 hhcurveto
+          -17 -13 11 14 -8 hvcurveto
+          -8 14 -4 18 16 vvcurveto
+          -10 -8 -10 -8 -9 -9 -19 -17 -21 -15 -27 -9 rrcurveto
+          -5 -13 -16 -2 -18 hhcurveto
+          -67 -40 50 65 60 36 38 49 29 hvcurveto
+          48 28 62 19 55 19 rrcurveto
+          28 vlineto
+          84 -30 29 -51 -28 -17 -9 -13 -10 vhcurveto
+          -10 -13 -3 -18 -17 vvcurveto
+          -32 -8 -29 -33 -27 -17 23 31 31 19 26 32 20 vhcurveto
+          19 31 42 11 45 hhcurveto
+          109 39 -47 -75 hvcurveto
+          -83 -79 rmoveto
+          -36 -12 -41 -19 -33 -23 rrcurveto
+          -33 -24 -24 -29 -32 vvcurveto
+          -23 8 -20 13 -15 vhcurveto
+          -16 12 18 -9 17 hhcurveto
+          37 29 23 27 33 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="ampersand">
+          262 540 424 rmoveto
+          214 -18 hlineto
+          -36 -25 -18 -26 -20 hvcurveto
+          -11 -13 -9 -15 -8 -15 -17 -31 -23 -34 -29 -43 -15 -22 -16 -21 -18 -21 rrcurveto
+          -53 52 48 -33 39 hhcurveto
+          51 36 17 51 23 hvcurveto
+          19 -7 rlineto
+          -89 -19 -63 -49 -88 hhcurveto
+          -56 -61 35 53 -57 hvcurveto
+          -52 -67 -78 -36 -92 hhcurveto
+          -64 -45 16 26 -28 hvcurveto
+          -29 26 -13 36 44 vvcurveto
+          63 25 47 39 38 vhcurveto
+          39 38 51 29 52 25 rrcurveto
+          -28 60 -18 52 35 vvcurveto
+          45 15 44 29 33 vhcurveto
+          33 29 45 22 59 hhcurveto
+          44 40 -13 -24 29 hvcurveto
+          28 -25 18 -36 -44 vvcurveto
+          -44 -23 -33 -34 -27 vhcurveto
+          -34 -27 -47 -20 -44 -21 36 -68 51 -67 59 -64 29 33 23 36 16 29 16 29 8 24 -1 12 -1 19 -1 14 -6 11 rrcurveto
+          11 -6 -12 5 -21 hhcurveto
+          -280 -68 rmoveto
+          -69 -40 -51 -57 -64 vvcurveto
+          -37 13 -33 22 -24 vhcurveto
+          -24 22 32 -14 40 hhcurveto
+          55 48 27 35 44 hvcurveto
+          -63 68 -50 83 -43 80 rrcurveto
+          74 75 rmoveto
+          36 17 31 20 23 24 rrcurveto
+          23 23 13 27 33 vvcurveto
+          67 -36 38 -45 -25 -22 -15 -20 -15 vhcurveto
+          -16 -21 -9 -27 -25 vvcurveto
+          -41 15 -52 27 -48 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="asciicircum">
+          -56 12 328 rmoveto
+          220 368 rlineto
+          32 hlineto
+          220 -368 rlineto
+          -63 hlineto
+          -174 292 -175 -292 rlineto
+          endchar
+        </CharString>
+        <CharString name="asciitilde">
+          55 563 422 rmoveto
+          -107 -54 -54 -85 -57 -47 23 23 -40 vhcurveto
+          23 -41 -37 23 -37 hhcurveto
+          -25 -23 -11 -17 -19 hvcurveto
+          -19 -17 -13 -23 -4 -24 rrcurveto
+          -24 hlineto
+          104 55 57 96 45 48 -23 -23 45 vhcurveto
+          -23 44 42 -23 32 hhcurveto
+          28 19 11 17 15 hvcurveto
+          15 17 9 23 8 24 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="asterisk">
+          -54 242 507 rmoveto
+          23 -8 25 -8 25 vhcurveto
+          -8 24 -8 22 19 vvcurveto
+          29 17 22 23 23 17 -22 -29 -19 -8 -22 -8 -24 vhcurveto
+          -8 -25 -8 -25 -23 vvcurveto
+          20 12 18 19 17 20 16 19 16 18 16 9 25 15 27 -5 11 -19 11 -19 -10 -26 -25 -15 -16 -9 -23 -5 -25 -5 -25 -5 -25 -6 -20 -12 19 -11 26 -6 25 -4 25 -5 24 -5 16 -9 rrcurveto
+          25 -15 9 -27 -11 -19 -11 -19 -27 -5 -25 15 -16 9 -16 18 -16 20 -17 19 -18 19 -20 12 rrcurveto
+          -23 8 -25 8 -24 vhcurveto
+          8 -25 8 -24 -17 vvcurveto
+          -29 -17 -22 -23 -23 -17 22 29 17 8 24 8 25 vhcurveto
+          8 24 8 25 23 vvcurveto
+          -20 -12 -18 -20 -16 -19 -17 -19 -17 -18 -16 -9 -24 -15 -28 4 -11 19 -11 19 11 27 24 15 15 8 25 5 25 5 25 5 26 6 20 12 -20 12 -26 6 -25 5 -25 4 -24 5 -16 9 rrcurveto
+          -24 16 -12 26 12 19 11 20 28 3 25 -13 16 -11 16 -18 17 -19 16 -19 18 -19 20 -12 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="at">
+          416 628 449 rmoveto
+          82 10 -94 -317 rlineto
+          -7 -20 -6 -29 -25 vvcurveto
+          -27 9 -23 27 51 51 40 61 39 vhcurveto
+          39 61 26 81 84 vvcurveto
+          92 -36 82 -56 57 vhcurveto
+          57 -56 -77 35 -81 hhcurveto
+          -131 -108 -50 -80 -76 hvcurveto
+          -76 -80 -43 -110 -121 vvcurveto
+          -107 40 -102 69 -75 vhcurveto
+          -76 69 100 -49 120 hhcurveto
+          105 84 32 50 65 hvcurveto
+          64 50 46 69 31 75 rrcurveto
+          30 hlineto
+          -41 -95 -53 -76 -69 -52 rrcurveto
+          -53 -69 -87 -30 -112 hhcurveto
+          -136 -109 49 81 -75 hvcurveto
+          -76 81 -40 111 127 vvcurveto
+          132 51 115 85 82 vhcurveto
+          82 84 119 48 137 hhcurveto
+          99 86 -35 -62 61 hvcurveto
+          60 -62 36 -89 -107 vvcurveto
+          -95 -30 -88 -47 -66 vhcurveto
+          -66 -48 -63 -42 -64 hhcurveto
+          -57 -41 17 59 -3 hvcurveto
+          -1 17 3 23 6 29 -13 -15 -13 -15 -15 -17 -29 -34 -33 -30 -34 -19 rrcurveto
+          -10 -17 -18 -5 -18 hhcurveto
+          -32 -23 15 22 -15 hvcurveto
+          -15 22 -7 29 31 vvcurveto
+          45 15 58 26 54 vhcurveto
+          26 54 35 52 42 39 rrcurveto
+          39 42 47 25 48 hhcurveto
+          21 18 -11 -16 13 hvcurveto
+          12 -16 8 -22 3 -20 rrcurveto
+          -233 -336 rmoveto
+          33 35 22 35 31 hvcurveto
+          31 35 28 47 20 48 rrcurveto
+          20 47 12 48 39 vvcurveto
+          19 -10 19 -12 14 vhcurveto
+          14 -13 -17 8 -13 hhcurveto
+          -37 -35 -24 -36 -29 hvcurveto
+          -29 -37 -26 -48 -17 -48 rrcurveto
+          -17 -48 -10 -48 -36 vvcurveto
+          -15 3 -16 8 -14 vhcurveto
+          -14 8 13 -11 23 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="b">
+          -46 74 550 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -322 hlineto
+          13 25 24 25 26 17 rrcurveto
+          17 26 28 11 27 hhcurveto
+          48 43 -23 -37 29 hvcurveto
+          29 -37 18 -52 -56 vvcurveto
+          -76 -26 -67 -42 -50 vhcurveto
+          -50 -42 -59 -31 -64 hhcurveto
+          -63 -55 18 37 -43 hvcurveto
+          83 30 rmoveto
+          -23 21 27 -24 47 hhcurveto
+          39 31 22 37 23 hvcurveto
+          23 36 13 52 60 vvcurveto
+          45 -13 42 -22 29 vhcurveto
+          29 -22 -32 19 -33 hhcurveto
+          -39 -43 -25 -31 -20 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="backslash">
+          -277 227 -16 rmoveto
+          -228 712 rlineto
+          47 hlineto
+          228 -712 rlineto
+          endchar
+        </CharString>
+        <CharString name="bar">
+          -293 149 680 rmoveto
+          -911 -48 911 vlineto
+          endchar
+        </CharString>
+        <CharString name="braceleft">
+          -218 319 678 rmoveto
+          -36 -3 -31 -18 -23 -27 rrcurveto
+          -24 -27 -14 -36 -37 vvcurveto
+          -26 3 -22 5 -19 vhcurveto
+          5 -19 3 -18 -18 vvcurveto
+          -32 -15 -35 -24 -29 vhcurveto
+          -25 -29 -34 -25 -37 -12 37 -9 34 -23 25 -30 rrcurveto
+          24 -30 15 -38 -36 vvcurveto
+          -21 -4 -19 -4 -19 vhcurveto
+          -4 -19 -4 -20 -24 vvcurveto
+          -40 14 -36 24 -27 vhcurveto
+          23 -28 31 -18 36 -3 rrcurveto
+          -18 vlineto
+          -55 -50 23 36 -36 hvcurveto
+          -36 36 -23 50 55 vvcurveto
+          20 3 19 5 19 vhcurveto
+          5 18 3 22 26 vvcurveto
+          33 -13 30 -21 22 vhcurveto
+          22 -21 -29 13 -32 hhcurveto
+          24 vlineto
+          32 29 14 22 21 hvcurveto
+          21 22 13 29 33 vvcurveto
+          29 -4 23 -4 20 vhcurveto
+          -4 19 -4 17 16 vvcurveto
+          53 23 50 36 36 vhcurveto
+          35 36 50 22 55 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="braceright">
+          -218 19 696 rmoveto
+          55 50 -22 -35 36 hvcurveto
+          36 -36 23 -50 -53 vvcurveto
+          -16 -4 -17 -4 -19 vhcurveto
+          -4 -20 -4 -23 -29 vvcurveto
+          -33 13 -29 21 -22 vhcurveto
+          -22 21 29 -14 32 hhcurveto
+          -24 vlineto
+          -32 -29 -13 -22 -21 hvcurveto
+          -21 -22 -13 -30 -33 vvcurveto
+          -26 3 -22 5 -18 vhcurveto
+          5 -19 3 -19 -20 vvcurveto
+          -55 -23 -50 -36 -36 vhcurveto
+          -36 -36 -50 -23 -55 hhcurveto
+          18 vlineto
+          36 3 31 18 24 28 rrcurveto
+          23 27 14 36 40 vvcurveto
+          24 -4 20 -4 19 vhcurveto
+          -4 19 -4 19 21 vvcurveto
+          36 15 38 25 30 vhcurveto
+          24 30 34 23 37 9 -37 12 -34 25 -24 29 rrcurveto
+          -25 29 -15 35 32 vvcurveto
+          18 3 18 5 19 vhcurveto
+          5 19 3 22 26 vvcurveto
+          37 -14 36 -23 27 vhcurveto
+          -24 27 -31 18 -36 3 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="bracketleft">
+          -248 41 696 rmoveto
+          224 -46 -144 -798 144 -46 -224 hlineto
+          endchar
+        </CharString>
+        <CharString name="bracketright">
+          -251 13 -194 rmoveto
+          46 144 798 -144 46 224 -890 vlineto
+          endchar
+        </CharString>
+        <CharString name="c">
+          -102 229 -10 rmoveto
+          -55 -49 26 41 -35 hvcurveto
+          -36 41 -22 57 63 vvcurveto
+          69 24 64 40 45 vhcurveto
+          45 39 54 28 60 hhcurveto
+          47 40 -12 -19 29 hvcurveto
+          28 -20 17 -27 -31 vvcurveto
+          -28 -28 -23 -27 -31 -18 26 25 43 -14 32 -56 -39 -29 -18 -28 -21 vhcurveto
+          -21 -29 -11 -39 -44 vvcurveto
+          -59 15 -54 25 -39 vhcurveto
+          -40 25 37 -25 44 hhcurveto
+          39 28 14 22 23 hvcurveto
+          23 22 15 30 13 32 19 -6 rcurveline
+          -117 -28 -68 -67 -96 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="colon">
+          -282 121 469 rmoveto
+          31 25 -23 -31 -31 -25 -23 -31 -31 -25 23 31 31 25 23 31 hvcurveto
+          -377 vmoveto
+          31 25 -23 -31 -31 -25 -23 -31 -31 -25 23 31 31 25 23 31 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="comma">
+          -282 65 -144 rmoveto
+          31 8 28 17 20 21 rrcurveto
+          20 20 13 25 25 vvcurveto
+          15 -7 13 -9 -8 -5 -4 -4 -6 vhcurveto
+          -4 -6 -8 -4 -13 hhcurveto
+          -27 -23 25 33 35 31 27 39 25 23 -12 -19 16 hvcurveto
+          16 -20 10 -27 -29 vvcurveto
+          -47 -19 -39 -29 -29 vhcurveto
+          -29 -29 -40 -18 -43 -3 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="d">
+          347 45 rmoveto
+          -35 -39 -52 -20 -47 hhcurveto
+          -49 -44 27 43 -32 hvcurveto
+          -32 43 -20 58 63 vvcurveto
+          63 25 61 40 46 vhcurveto
+          46 40 55 29 60 hhcurveto
+          40 30 -17 -25 25 hvcurveto
+          123 vlineto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -560 hlineto
+          -60 10 -17 32 11 11 1 7 11 vhcurveto
+          6 -14 -140 -63 rlineto
+          -24 hlineto
+          324 vmoveto
+          36 -13 31 -20 21 vhcurveto
+          20 -20 -26 13 -25 hhcurveto
+          -33 -30 -19 -32 -21 hvcurveto
+          -21 -33 -14 -46 -55 vvcurveto
+          -59 15 -51 24 -38 vhcurveto
+          -38 24 33 -24 36 hhcurveto
+          35 35 22 25 21 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="dollar">
+          -57 224 307 rmoveto
+          -48 27 -46 28 -34 36 rrcurveto
+          -34 35 -22 43 53 vvcurveto
+          44 21 40 33 30 vhcurveto
+          32 30 46 19 52 4 rrcurveto
+          48 40 -48 vlineto
+          72 -4 51 -21 52 -23 rrcurveto
+          -150 -20 vlineto
+          -8 61 -17 37 -26 23 -26 23 -37 8 -41 7 rrcurveto
+          -258 vlineto
+          48 -27 51 -30 38 -36 rrcurveto
+          38 -37 25 -44 -53 vvcurveto
+          -49 -19 -44 -35 -34 vhcurveto
+          -36 -34 -50 -23 -60 -4 rrcurveto
+          -46 -40 46 vlineto
+          -73 3 -55 11 -56 32 rrcurveto
+          138 24 vlineto
+          -104 13 46 -41 101 hhcurveto
+          40 hmoveto
+          32 5 28 18 20 22 rrcurveto
+          20 22 12 27 28 vvcurveto
+          59 -48 43 -64 35 vhcurveto
+          -40 375 rmoveto
+          -28 -4 -24 -13 -16 -19 rrcurveto
+          -17 -20 -11 -24 -24 vvcurveto
+          -51 40 -46 56 -31 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="e">
+          -90 237 -10 rmoveto
+          -56 -52 25 41 -37 hvcurveto
+          -37 40 -23 56 61 vvcurveto
+          73 20 65 36 46 vhcurveto
+          46 36 51 26 63 hhcurveto
+          55 46 -21 -33 33 hvcurveto
+          33 -33 19 -47 -51 vvcurveto
+          -312 hlineto
+          -63 16 -55 26 -40 vhcurveto
+          -41 26 36 -25 44 hhcurveto
+          36 36 11 20 28 hvcurveto
+          28 19 21 26 8 28 18 -3 rcurveline
+          -12 -47 -28 -43 -36 -31 rrcurveto
+          -31 -36 -43 -19 -43 hhcurveto
+          83 318 rmoveto
+          35 -12 31 -19 24 vhcurveto
+          23 -20 -28 14 -29 hhcurveto
+          -25 -23 -14 -23 -18 hvcurveto
+          -18 -24 -13 -31 -3 -35 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="eight">
+          247 696 rmoveto
+          56 49 -16 -27 34 hvcurveto
+          34 -28 20 -38 -44 vvcurveto
+          -28 -17 -33 -27 -31 vhcurveto
+          -28 -31 -35 -27 -36 -15 53 -35 41 -38 26 -38 rrcurveto
+          26 -38 13 -37 -28 vvcurveto
+          -49 -22 -46 -36 -32 vhcurveto
+          -33 -36 -49 -20 -55 hhcurveto
+          -59 -48 18 30 -35 hvcurveto
+          -36 30 -20 41 48 vvcurveto
+          87 52 51 83 55 vhcurveto
+          -45 36 -32 29 -20 29 rrcurveto
+          -20 29 -9 30 37 vvcurveto
+          44 20 41 32 29 vhcurveto
+          29 32 45 19 49 hhcurveto
+          27 -299 rmoveto
+          55 47 35 50 72 vvcurveto
+          53 -42 43 -72 -32 -26 -12 -19 -19 vhcurveto
+          -19 -19 -11 -24 -25 vvcurveto
+          -33 18 -31 25 -27 vhcurveto
+          25 -28 34 -26 29 -21 rrcurveto
+          -56 -72 rmoveto
+          -29 -25 -20 -30 -12 -29 rrcurveto
+          -13 -29 -6 -29 -24 vvcurveto
+          -39 14 -36 22 -25 vhcurveto
+          -25 22 31 -16 33 hhcurveto
+          33 33 11 18 22 hvcurveto
+          22 18 14 24 27 vvcurveto
+          20 -8 23 -12 22 vhcurveto
+          -12 22 -17 21 -17 15 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="equal">
+          48 42 469 rmoveto
+          516 -42 -516 hlineto
+          -116 vmoveto
+          516 -42 -516 hlineto
+          endchar
+        </CharString>
+        <CharString name="exclam">
+          -359 82 174 rmoveto
+          -3 75 -11 78 -10 76 rrcurveto
+          -10 75 -10 73 64 vvcurveto
+          51 29 30 31 35 25 -30 -51 -64 -9 -73 -11 -75 vhcurveto
+          -11 -76 -10 -78 -3 -75 rrcurveto
+          -16 -82 rmoveto
+          31 25 -23 -31 -31 -25 -23 -31 -31 -25 23 31 31 25 23 31 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="f">
+          -260 301 459 rmoveto
+          -34 -112 -318 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          318 -88 34 88 69 vlineto
+          47 18 41 28 31 vhcurveto
+          31 28 39 18 43 hhcurveto
+          84 63 -25 -56 -27 -18 -12 -23 -31 -10 22 21 -11 hvcurveto
+          21 -12 -13 22 -33 hhcurveto
+          -17 -18 -10 -15 -12 hvcurveto
+          -13 -16 -9 -21 -24 vvcurveto
+          -117 vlineto
+          endchar
+        </CharString>
+        <CharString name="five">
+          418 596 rmoveto
+          -200 hlineto
+          -46 -92 rlineto
+          76 71 -28 -47 52 hvcurveto
+          52 -48 33 -66 -77 vvcurveto
+          -71 -29 -62 -50 -46 vhcurveto
+          -46 -50 -70 -29 -76 hhcurveto
+          -69 -47 31 37 24 20 12 23 24 17 -13 -12 18 hvcurveto
+          -12 18 20 -13 35 hhcurveto
+          40 37 18 31 27 hvcurveto
+          27 31 16 41 47 vvcurveto
+          63 -30 52 -53 36 vhcurveto
+          36 -53 -77 21 -93 hhcurveto
+          133 266 rlineto
+          243 hlineto
+          endchar
+        </CharString>
+        <CharString name="four">
+          311 176 rmoveto
+          -295 62 hlineto
+          324 458 rlineto
+          59 -446 88 -74 -88 -176 -88 hlineto
+          -234 250 rmoveto
+          234 335 hlineto
+          endchar
+        </CharString>
+        <CharString name="g">
+          -52 474 436 rmoveto
+          -38 -79 vlineto
+          16 -25 11 -33 -31 vvcurveto
+          -48 -20 -40 -34 -28 vhcurveto
+          -28 -34 -49 -16 -57 hhcurveto
+          -21 -24 5 5 -16 hvcurveto
+          -16 -15 -13 -19 -19 vvcurveto
+          -19 20 -12 33 -1 vhcurveto
+          155 -7 rlineto
+          99 -4 29 -39 -60 vvcurveto
+          -108 -92 -68 -156 -69 -52 9 17 -34 vhcurveto
+          -34 17 -17 22 29 vvcurveto
+          25 13 23 18 21 vhcurveto
+          18 21 23 20 21 19 rrcurveto
+          -31 11 -24 18 27 vvcurveto
+          19 9 21 16 18 vhcurveto
+          15 18 21 16 24 9 rrcurveto
+          -56 27 -34 48 61 vvcurveto
+          45 21 42 33 30 vhcurveto
+          30 32 46 18 52 hhcurveto
+          51 48 -14 -19 19 hvcurveto
+          -217 -432 rmoveto
+          -24 -20 -14 -33 -25 vvcurveto
+          -21 13 -18 27 -15 vhcurveto
+          -16 26 39 -8 53 hhcurveto
+          56 44 11 16 31 hvcurveto
+          31 15 16 21 20 vvcurveto
+          41 -40 18 -64 -40 -42 2 3 -36 vhcurveto
+          -36 3 -28 3 -12 3 rrcurveto
+          104 169 rmoveto
+          24 22 13 20 17 hvcurveto
+          16 20 11 28 32 vvcurveto
+          45 -12 40 -19 29 vhcurveto
+          28 -19 -27 17 -28 hhcurveto
+          -56 -25 -53 -71 -41 10 -37 17 -27 hvcurveto
+          -27 16 25 -16 28 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="grave">
+          -351 137 696 rmoveto
+          53 -177 rlineto
+          -28 hlineto
+          -151 177 rlineto
+          endchar
+        </CharString>
+        <CharString name="greater">
+          48 553 331 rmoveto
+          -516 -214 rlineto
+          47 vlineto
+          435 182 -435 190 rlineto
+          47 vlineto
+          516 -223 rlineto
+          endchar
+        </CharString>
+        <CharString name="h">
+          -32 167 376 rmoveto
+          63 51 55 30 56 hhcurveto
+          29 26 -16 -24 19 hvcurveto
+          19 -25 12 -35 -39 vvcurveto
+          -223 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          208 vlineto
+          60 -28 32 -39 -35 -45 -26 -40 -37 vhcurveto
+          -234 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          443 vlineto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 hlineto
+          endchar
+        </CharString>
+        <CharString name="hyphen">
+          -262 270 275 rmoveto
+          -60 -250 60 vlineto
+          endchar
+        </CharString>
+        <CharString name="i">
+          -274 144 696 rmoveto
+          27 21 -21 -25 -25 -21 -21 -27 -27 -21 21 25 25 21 21 27 hvcurveto
+          -41 -373 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -362 hlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="j">
+          -274 144 696 rmoveto
+          27 21 -21 -25 -25 -21 -21 -27 -27 -21 21 25 25 21 21 27 hvcurveto
+          42 -696 rmoveto
+          -96 -15 -53 -28 -29 vhcurveto
+          -29 -29 -42 -5 -53 hhcurveto
+          -51 -31 24 31 25 16 14 27 19 10 -15 -15 10 hvcurveto
+          -15 10 11 -15 20 hhcurveto
+          13 11 6 11 8 hvcurveto
+          7 11 4 20 30 vvcurveto
+          423 vlineto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 hlineto
+          endchar
+        </CharString>
+        <CharString name="k">
+          171 261 rmoveto
+          111 101 rlineto
+          27 23 27 21 19 vvcurveto
+          7 -2 4 -5 2 vhcurveto
+          2 -5 -9 1 -15 hhcurveto
+          18 190 -18 vlineto
+          -31 -23 -2 -11 -23 hvcurveto
+          -24 -12 -25 -18 -33 -32 -84 -73 rcurveline
+          136 -172 33 -43 25 -25 21 -15 rlinecurve
+          -15 20 19 -5 24 hhcurveto
+          -18 -227 18 vlineto
+          24 6 8 15 12 -20 28 -17 21 hvcurveto
+          -120 150 rlineto
+          -145 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          443 vlineto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 hlineto
+          endchar
+        </CharString>
+        <CharString name="l">
+          -275 181 107 rmoveto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          443 vlineto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 hlineto
+          endchar
+        </CharString>
+        <CharString name="less">
+          48 553 583 rmoveto
+          -47 vlineto
+          -435 -190 435 -182 rlineto
+          -47 vlineto
+          -516 214 rlineto
+          29 vlineto
+          endchar
+        </CharString>
+        <CharString name="m">
+          253 88 323 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -95 hlineto
+          21 25 28 25 29 17 rrcurveto
+          17 28 29 11 25 hhcurveto
+          25 27 -11 -16 21 hvcurveto
+          21 -17 17 -25 5 -28 13 27 27 25 29 17 rrcurveto
+          17 29 34 11 32 hhcurveto
+          32 28 -16 -26 21 hvcurveto
+          20 -26 13 -36 -40 vvcurveto
+          -218 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          205 vlineto
+          52 -34 43 -41 -45 -53 -29 -36 -21 vhcurveto
+          -235 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          205 vlineto
+          25 -8 25 -14 17 vhcurveto
+          17 -14 -19 11 -20 hhcurveto
+          -21 -24 -7 -12 -21 hvcurveto
+          -21 -12 -20 -17 -12 -17 rrcurveto
+          -235 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="n">
+          -34 88 323 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -93 hlineto
+          63 51 55 30 56 hhcurveto
+          29 26 -16 -24 19 hvcurveto
+          19 -25 12 -35 -39 vvcurveto
+          -223 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          208 vlineto
+          60 -28 32 -39 -35 -45 -26 -40 -37 vhcurveto
+          -234 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="nine">
+          49 2 rmoveto
+          69 7 69 36 54 53 54 53 41 71 16 77 rrcurveto
+          -28 -41 -40 -23 -63 hhcurveto
+          -55 -42 26 39 -31 hvcurveto
+          -31 39 -16 52 55 vvcurveto
+          65 24 59 40 44 vhcurveto
+          43 40 55 26 60 hhcurveto
+          60 55 -31 -48 40 hvcurveto
+          40 -49 25 -68 -75 vvcurveto
+          -121 -48 -111 -76 -80 vhcurveto
+          -80 -77 -106 -49 -116 hhcurveto
+          311 353 rmoveto
+          4 29 4 38 35 vvcurveto
+          60 -14 56 -24 41 vhcurveto
+          40 -24 -33 26 -36 hhcurveto
+          -39 -25 -20 -30 -18 hvcurveto
+          -18 -30 -8 -41 -39 vvcurveto
+          -60 10 -53 21 -36 vhcurveto
+          -37 20 32 -22 44 hhcurveto
+          35 45 19 24 24 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="numbersign">
+          -49 140 442 rmoveto
+          51 238 rlineto
+          52 hlineto
+          -51 -238 rlineto
+          170 hlineto
+          51 238 rlineto
+          51 hlineto
+          -50 -238 rlineto
+          89 -38 -97 hlineto
+          -36 -169 rlineto
+          133 -38 -141 hlineto
+          -48 -222 rlineto
+          -52 hlineto
+          48 222 rlineto
+          -170 hlineto
+          -48 -222 rlineto
+          -52 hlineto
+          49 222 -89 -1 rlineto
+          39 96 vlineto
+          36 169 rlineto
+          -132 38 hlineto
+          148 -207 rmoveto
+          170 hlineto
+          36 169 rlineto
+          -170 hlineto
+          endchar
+        </CharString>
+        <CharString name="o">
+          -46 253 -10 rmoveto
+          -64 -55 27 42 -39 hvcurveto
+          -40 42 -23 59 64 vvcurveto
+          68 23 61 40 45 vhcurveto
+          44 39 55 27 64 hhcurveto
+          64 55 -25 -40 40 hvcurveto
+          39 -41 23 -57 -63 vvcurveto
+          -69 -23 -63 -39 -46 vhcurveto
+          -46 -40 -55 -29 -64 hhcurveto
+          16 34 rmoveto
+          32 28 20 32 20 hvcurveto
+          20 31 12 42 47 vvcurveto
+          67 -10 59 -23 44 vhcurveto
+          43 -24 -36 26 -55 hhcurveto
+          -28 -27 -19 -31 -20 hvcurveto
+          -20 -31 -13 -41 -47 vvcurveto
+          -67 13 -60 25 -44 vhcurveto
+          -44 24 37 -27 45 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="one">
+          123 hmoveto
+          18 vlineto
+          69 27 25 64 hvcurveto
+          392 vlineto
+          65 -5 36 -39 -16 -20 -6 -7 -24 vhcurveto
+          19 vlineto
+          178 90 rlineto
+          14 -589 hlineto
+          -53 32 -36 64 vhcurveto
+          -18 vlineto
+          endchar
+        </CharString>
+        <CharString name="p">
+          -36 85 323 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -103 hlineto
+          16 24 21 25 25 20 rrcurveto
+          20 24 30 14 36 hhcurveto
+          49 42 -24 -39 29 hvcurveto
+          28 -40 16 -53 -60 vvcurveto
+          -76 -20 -65 -35 -47 vhcurveto
+          -48 -36 -50 -27 -63 hhcurveto
+          -47 -30 10 24 -35 hvcurveto
+          -111 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          83 211 rmoveto
+          -56 45 -44 67 31 28 18 32 20 vhcurveto
+          20 32 13 44 55 vvcurveto
+          137 -45 65 -64 -48 -40 -35 -39 -27 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="parenleft">
+          -223 327 -212 rmoveto
+          -88 32 -74 63 -52 81 rrcurveto
+          -52 80 -30 96 99 vvcurveto
+          97 30 100 52 82 vhcurveto
+          52 82 74 64 88 32 rrcurveto
+          -18 vlineto
+          -75 -49 -46 -68 -30 -76 rrcurveto
+          -30 -76 -11 -86 -84 vvcurveto
+          -84 8 -83 28 -75 vhcurveto
+          28 -75 48 -67 80 -49 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="parenright">
+          -180 46 -194 rmoveto
+          80 49 48 67 28 75 rrcurveto
+          28 75 8 83 84 vvcurveto
+          84 -10 86 -30 76 vhcurveto
+          -30 76 -49 68 -73 49 rrcurveto
+          18 vlineto
+          88 -32 74 -64 52 -82 rrcurveto
+          52 -82 30 -100 -97 vvcurveto
+          -99 -30 -96 -52 -80 vhcurveto
+          -52 -81 -74 -63 -88 -32 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="percent">
+          296 174 696 rmoveto
+          47 36 -24 -35 24 hvcurveto
+          24 -36 12 -48 -45 vvcurveto
+          -45 -13 -45 -24 -34 vhcurveto
+          -34 -24 -36 -23 -47 hhcurveto
+          -47 -35 23 34 -24 hvcurveto
+          -24 34 -13 45 45 vvcurveto
+          45 13 48 24 36 vhcurveto
+          35 24 36 24 47 hhcurveto
+          1 -26 rmoveto
+          -29 -17 -29 -35 -9 hvcurveto
+          -9 -35 -2 -40 -23 vvcurveto
+          -21 1 -39 9 -33 vhcurveto
+          -33 8 17 -29 29 hhcurveto
+          29 17 28 33 9 hvcurveto
+          8 33 2 38 23 vvcurveto
+          21 -2 41 -8 35 vhcurveto
+          35 -9 -16 30 -28 hhcurveto
+          500 -317 rmoveto
+          47 36 -24 -35 24 hvcurveto
+          24 -36 12 -48 -45 vvcurveto
+          -45 -13 -45 -24 -34 vhcurveto
+          -34 -24 -36 -23 -47 hhcurveto
+          -47 -35 23 34 -24 hvcurveto
+          -24 34 -13 45 45 vvcurveto
+          45 13 48 24 36 vhcurveto
+          35 24 36 24 47 hhcurveto
+          1 -26 rmoveto
+          -29 -17 -29 -35 -9 hvcurveto
+          -9 -35 -2 -40 -23 vvcurveto
+          -21 1 -39 9 -33 vhcurveto
+          -33 8 17 -29 29 hhcurveto
+          29 17 28 33 9 hvcurveto
+          8 33 2 38 23 vvcurveto
+          21 -2 41 -8 35 vhcurveto
+          35 -9 -16 30 -28 hhcurveto
+          -473 -343 rmoveto
+          -45 hlineto
+          488 712 rlineto
+          45 hlineto
+          endchar
+        </CharString>
+        <CharString name="period">
+          -282 121 92 rmoveto
+          31 25 -23 -31 -31 -25 -23 -31 -31 -25 23 31 31 25 23 31 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="plus">
+          48 278 627 rmoveto
+          44 -226 236 -42 -236 -226 -44 226 -236 42 236 hlineto
+          endchar
+        </CharString>
+        <CharString name="q">
+          -40 348 72 rmoveto
+          -16 -20 -19 -20 -24 -16 rrcurveto
+          -16 -24 -29 -10 -37 hhcurveto
+          -47 -40 24 40 -31 hvcurveto
+          -31 39 -18 54 60 vvcurveto
+          72 26 66 41 48 vhcurveto
+          47 41 57 29 63 hhcurveto
+          36 39 -15 -19 13 hvcurveto
+          63 34 rlineto
+          20 -556 hlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          435 vmoveto
+          25 -10 18 -15 15 vhcurveto
+          16 -15 -32 13 -27 hhcurveto
+          -36 -32 -20 -32 -24 hvcurveto
+          -24 -33 -14 -46 -49 vvcurveto
+          -55 13 -48 23 -35 vhcurveto
+          -35 23 29 -22 35 hhcurveto
+          51 42 32 24 13 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="question">
+          -89 204 159 rmoveto
+          60 12 44 17 39 vhcurveto
+          8 19 9 19 10 17 19 34 17 34 11 38 rrcurveto
+          5 19 3 21 24 vvcurveto
+          88 -47 43 -64 -56 -40 -26 -39 -20 8 -10 8 -10 vhcurveto
+          8 -10 8 -11 -16 vvcurveto
+          -28 -17 -19 -23 -31 -24 31 43 55 25 38 36 25 vhcurveto
+          24 35 46 11 41 hhcurveto
+          56 48 -15 -28 34 hvcurveto
+          34 -28 19 -40 -51 vvcurveto
+          -49 -21 -41 -28 -39 vhcurveto
+          -15 -19 -15 -19 -16 -18 -33 -37 -30 -39 -19 -43 rrcurveto
+          -9 -22 -5 -24 -25 vvcurveto
+          -8 -63 rmoveto
+          31 25 -25 -31 -31 -25 -25 -31 -31 -25 25 31 31 25 25 31 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="quotedbl">
+          -223 66 404 rmoveto
+          -3 25 -4 22 -5 21 -9 41 -8 36 -6 37 rrcurveto
+          -3 18 -2 19 21 vvcurveto
+          29 23 23 29 29 23 -23 -29 -41 -7 -36 -8 -36 vhcurveto
+          -9 -37 -11 -41 -5 -49 rrcurveto
+          145 hmoveto
+          -3 25 -4 22 -5 21 -9 41 -8 36 -6 37 rrcurveto
+          -3 18 -2 19 21 vvcurveto
+          29 23 23 29 29 23 -23 -29 -41 -7 -36 -8 -36 vhcurveto
+          -9 -37 -11 -41 -5 -49 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="quotesingle">
+          -384 72 404 rmoveto
+          -3 25 -4 22 -5 21 -9 41 -8 36 -6 37 rrcurveto
+          -3 18 -2 19 21 vvcurveto
+          29 23 23 29 29 23 -23 -29 -41 -7 -36 -8 -36 vhcurveto
+          -9 -37 -11 -41 -5 -49 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="r">
+          -208 86 323 rmoveto
+          26 -1 19 -2 12 vhcurveto
+          12 -3 -9 6 -15 hhcurveto
+          -11 -11 -3 -5 -19 hvcurveto
+          -7 18 137 61 rlineto
+          24 -96 hlineto
+          52 32 42 44 45 hhcurveto
+          36 29 -24 -31 -29 -17 -16 -31 -19 -10 7 8 -9 hvcurveto
+          8 -9 -9 7 -13 hhcurveto
+          -23 -21 -31 -41 -23 hvcurveto
+          -220 vlineto
+          -65 12 -24 60 vhcurveto
+          -18 -227 18 vlineto
+          31 17 7 14 11 hvcurveto
+          11 14 2 22 32 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="s">
+          -150 54 159 rmoveto
+          18 hlineto
+          5 -37 19 -34 25 -24 rrcurveto
+          -25 24 32 -15 32 hhcurveto
+          43 33 31 35 37 -26 24 -35 20 hvcurveto
+          -17 9 -19 10 -20 9 -41 19 -36 23 -23 35 rrcurveto
+          -12 17 -6 22 26 vvcurveto
+          75 51 53 84 25 21 -3 -6 16 vhcurveto
+          -6 15 14 -3 13 hhcurveto
+          9 9 7 11 3 hvcurveto
+          18 -153 -18 hlineto
+          -3 33 -13 31 -21 23 rrcurveto
+          23 -21 -28 13 -31 hhcurveto
+          -49 -32 -28 -33 -37 29 -23 37 -20 hvcurveto
+          19 -10 20 -9 23 -9 44 -18 39 -24 25 -35 rrcurveto
+          13 -17 6 -22 -25 vvcurveto
+          -39 -14 -35 -27 -25 vhcurveto
+          -25 -27 -40 -15 -52 hhcurveto
+          -28 -21 6 6 -19 hvcurveto
+          6 -19 -14 5 -13 hhcurveto
+          -9 -9 -6 -7 -3 hvcurveto
+          -18 hlineto
+          endchar
+        </CharString>
+        <CharString name="semicolon">
+          -282 141 469 rmoveto
+          31 25 -25 -31 -31 -25 -25 -31 -31 -25 25 31 31 25 25 31 hvcurveto
+          -76 -613 rmoveto
+          31 8 28 17 20 21 rrcurveto
+          20 20 13 25 25 vvcurveto
+          15 -7 13 -9 -8 -5 -4 -4 -6 vhcurveto
+          -4 -6 -8 -4 -13 hhcurveto
+          -27 -23 25 33 35 31 27 39 25 23 -12 -19 16 hvcurveto
+          16 -20 10 -27 -29 vvcurveto
+          -47 -19 -39 -29 -29 vhcurveto
+          -29 -29 -40 -18 -43 -3 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="seven">
+          464 662 rmoveto
+          -226 -678 rlineto
+          -60 hlineto
+          204 612 rlineto
+          -188 hlineto
+          -69 -42 -26 -59 -32 hvcurveto
+          -20 6 60 163 rlineto
+          373 hlineto
+          endchar
+        </CharString>
+        <CharString name="six">
+          457 678 rmoveto
+          -75 -7 -67 -37 -55 -55 -55 -55 -39 -73 -16 -77 rrcurveto
+          31 40 44 24 63 hhcurveto
+          49 46 -23 -36 33 hvcurveto
+          32 -37 20 -52 -56 vvcurveto
+          -67 -25 -60 -40 -43 vhcurveto
+          -44 -40 -55 -27 -60 hhcurveto
+          -64 -55 30 49 -39 hvcurveto
+          -40 49 -22 68 75 vvcurveto
+          119 42 110 73 81 vhcurveto
+          80 73 105 51 127 hhcurveto
+          -308 -352 rmoveto
+          -5 -31 -3 -31 -31 vvcurveto
+          -63 11 -57 21 -43 vhcurveto
+          -43 20 33 -27 44 hhcurveto
+          31 27 18 29 20 hvcurveto
+          20 29 13 41 44 vvcurveto
+          57 -15 52 -23 37 vhcurveto
+          37 -24 -33 23 -36 hhcurveto
+          -31 -42 -17 -24 -28 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="slash">
+          -277 228 696 rmoveto
+          47 hlineto
+          -228 -712 rlineto
+          -47 hlineto
+          endchar
+        </CharString>
+        <CharString name="space">
+          -298 endchar
+        </CharString>
+        <CharString name="t">
+          -262 8 425 rmoveto
+          24 vlineto
+          32 28 18 31 24 hvcurveto
+          23 31 16 41 8 47 rrcurveto
+          24 -158 111 -34 -111 -328 hlineto
+          -27 20 -22 25 29 20 26 23 11 vhcurveto
+          22 hlineto
+          -64 -19 -40 -43 -69 hhcurveto
+          -56 -26 43 64 hvcurveto
+          328 vlineto
+          endchar
+        </CharString>
+        <CharString name="three">
+          158 354 rmoveto
+          95 11 64 62 89 vvcurveto
+          29 -11 28 -19 20 vhcurveto
+          19 -20 -28 12 -33 hhcurveto
+          -24 -26 -9 -15 -23 hvcurveto
+          -24 -16 -21 -21 -12 -24 -18 8 rcurveline
+          13 41 22 37 32 27 rrcurveto
+          27 31 38 17 48 hhcurveto
+          45 41 -15 -26 29 hvcurveto
+          29 -26 19 -36 -41 vvcurveto
+          -21 -11 -27 -16 -27 vhcurveto
+          -17 -27 -25 -26 -25 -20 36 -12 31 -26 24 -32 rrcurveto
+          23 -33 14 -40 -37 vvcurveto
+          -80 -30 -60 -51 -40 vhcurveto
+          -40 -51 -69 -20 -80 hhcurveto
+          -68 -40 23 33 29 29 9 21 33 18 -12 -12 17 hvcurveto
+          -12 16 15 -12 31 hhcurveto
+          43 33 17 26 23 hvcurveto
+          23 26 11 35 37 vvcurveto
+          47 -17 42 -33 29 vhcurveto
+          29 -33 -53 18 -69 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="two">
+          33 hmoveto
+          18 vlineto
+          215 222 rlineto
+          61 65 41 70 84 vvcurveto
+          40 -11 40 -23 29 vhcurveto
+          29 -23 -33 19 -44 hhcurveto
+          -35 -34 -13 -23 -27 hvcurveto
+          -27 -23 -20 -31 -5 -33 rrcurveto
+          -18 hlineto
+          4 56 24 51 36 37 rrcurveto
+          36 36 47 23 51 hhcurveto
+          64 49 -21 -35 32 hvcurveto
+          32 -35 17 -47 -49 vvcurveto
+          -52 -19 -52 -30 -48 vhcurveto
+          -30 -49 -41 -46 -41 -43 -137 -142 rcurveline
+          208 hlineto
+          20 22 2 8 20 hvcurveto
+          20 8 17 13 12 23 rrcurveto
+          24 hlineto
+          -48 -131 rlineto
+          endchar
+        </CharString>
+        <CharString name="u">
+          -34 163 459 rmoveto
+          -326 vlineto
+          -23 10 -21 17 -15 vhcurveto
+          -15 16 24 -9 25 hhcurveto
+          33 45 33 41 21 hvcurveto
+          238 vlineto
+          60 -15 19 -57 vhcurveto
+          18 155 -323 vlineto
+          -60 10 -17 32 11 11 1 7 11 vhcurveto
+          6 -14 -140 -63 rlineto
+          -24 96 hlineto
+          -15 -27 -22 -24 -26 -17 rrcurveto
+          -17 -26 -29 -11 -24 hhcurveto
+          -36 -33 16 26 -24 hvcurveto
+          -24 26 -15 35 40 vvcurveto
+          229 vlineto
+          60 -15 19 -57 vhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="underscore">
+          -2 550 -100 rmoveto
+          -46 -550 46 vlineto
+          endchar
+        </CharString>
+        <CharString name="v">
+          -58 208 459 rmoveto
+          -18 vlineto
+          -35 -18 -12 -17 -19 6 -16 9 -21 hvcurveto
+          100 -244 104 254 rlineto
+          9 23 4 20 13 vvcurveto
+          7 -5 5 -10 3 vhcurveto
+          3 -10 -14 1 -18 hhcurveto
+          18 155 -18 vlineto
+          -31 -15 -20 -40 -17 hvcurveto
+          -163 -391 rlineto
+          -24 hlineto
+          -163 381 -12 28 -10 19 -11 10 rlinecurve
+          10 -11 -12 3 -16 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="w">
+          201 200 459 rmoveto
+          -18 vlineto
+          -26 -13 -8 -17 -16 9 -29 9 -23 hvcurveto
+          90 -224 86 220 -10 26 -4 12 -10 17 -15 15 rlinecurve
+          15 -15 -20 12 -25 hhcurveto
+          18 232 -18 vlineto
+          -35 -28 -10 -23 -9 6 -23 11 -28 hvcurveto
+          90 -224 75 214 2 6 2 6 3 7 rlinecurve
+          4 13 4 14 3 12 rrcurveto
+          1 6 1 5 3 vvcurveto
+          20 -9 11 -35 vhcurveto
+          18 170 -18 vlineto
+          -23 -18 -3 -12 -16 hvcurveto
+          -17 -13 -15 -24 -15 -41 -132 -358 rcurveline
+          -24 hlineto
+          -119 308 -119 -308 rlineto
+          -24 hlineto
+          -139 354 -17 44 -10 25 -12 13 rlinecurve
+          12 -12 -16 3 -25 hhcurveto
+          18 vlineto
+          endchar
+        </CharString>
+        <CharString name="x">
+          -49 136 88 rmoveto
+          -15 -19 -2 -14 -11 vvcurveto
+          -15 13 -11 29 vhcurveto
+          -18 -149 18 vlineto
+          8 10 4 9 12 hvcurveto
+          11 9 14 15 17 21 119 157 rcurveline
+          -92 147 -11 16 -10 16 -16 11 rlinecurve
+          11 -16 -21 7 -29 hhcurveto
+          18 216 -18 vlineto
+          -24 -7 -9 -13 -1 hvcurveto
+          -1 -9 9 -16 11 -19 45 -71 rcurveline
+          40 56 rlineto
+          13 19 19 27 15 vvcurveto
+          13 -13 7 -27 vhcurveto
+          18 160 -18 vlineto
+          -16 -15 -3 -12 -17 hvcurveto
+          -17 -12 -21 -23 -28 -37 -59 -79 rcurveline
+          127 -188 rlineto
+          -43 29 35 -26 31 hhcurveto
+          -18 -225 vlineto
+          1 18 rlineto
+          19 12 3 6 7 hvcurveto
+          6 6 3 7 7 vvcurveto
+          11 -16 25 -13 19 vhcurveto
+          -66 101 rlineto
+          endchar
+        </CharString>
+        <CharString name="y">
+          -38 102 323 rmoveto
+          -19 41 -18 30 -17 19 rrcurveto
+          19 -17 -16 9 -15 hhcurveto
+          18 211 -18 vlineto
+          -44 -5 -17 -19 -11 4 -13 8 -15 hvcurveto
+          7 -15 8 -17 8 -17 89 -188 rcurveline
+          95 234 rlineto
+          60 24 -6 18 -51 hhcurveto
+          18 149 -18 vlineto
+          -39 -9 -22 -57 -23 hvcurveto
+          -185 -452 rlineto
+          -73 -31 -57 -49 -53 hhcurveto
+          -36 -30 22 27 -1 hvcurveto
+          31 -1 13 20 39 hhcurveto
+          20 8 -5 -4 8 hvcurveto
+          -4 7 7 -5 16 hhcurveto
+          17 14 13 17 10 hvcurveto
+          10 16 8 21 7 16 29 70 rcurveline
+          endchar
+        </CharString>
+        <CharString name="z">
+          -89 20 24 rmoveto
+          302 401 rlineto
+          -165 hlineto
+          -23 -25 -8 -9 -9 hvcurveto
+          -13 -13 -10 -34 -1 -29 rrcurveto
+          -18 127 382 -18 hlineto
+          -308 -407 rlineto
+          195 hlineto
+          23 26 7 8 11 hvcurveto
+          16 12 14 44 3 41 rrcurveto
+          18 hlineto
+          -10 -146 rlineto
+          -408 hlineto
+          endchar
+        </CharString>
+        <CharString name="zero">
+          255 -16 rmoveto
+          -68 -57 37 64 -40 hvcurveto
+          -40 64 -23 90 105 vvcurveto
+          96 23 88 40 64 vhcurveto
+          64 40 57 40 68 hhcurveto
+          68 57 -40 -64 40 hvcurveto
+          40 -64 23 -88 -96 vvcurveto
+          -105 -23 -90 -40 -64 vhcurveto
+          -64 -40 -57 -37 -68 hhcurveto
+          34 vmoveto
+          41 32 38 60 21 hvcurveto
+          20 60 10 81 87 vvcurveto
+          85 -10 81 -20 58 vhcurveto
+          58 -21 -32 36 -41 hhcurveto
+          -43 -30 -36 -58 -20 hvcurveto
+          -21 -58 -10 -81 -85 vvcurveto
+          -87 10 -81 21 -60 vhcurveto
+          -60 20 30 -38 43 hhcurveto
+          endchar
+        </CharString>
+      </CharStrings>
+    </CFFFont>
+
+    <GlobalSubrs>
+      <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+    </GlobalSubrs>
+  </CFF>
 
   <GSUB>
-    <Version value="1.0"/>
+    <Version value="0x00010000"/>
     <ScriptList>
-      <!-- ScriptCount=1 -->
+      <!-- ScriptCount=2 -->
       <ScriptRecord index="0">
-        <ScriptTag value="latn"/>
+        <ScriptTag value="DFLT"/>
         <Script>
           <DefaultLangSys>
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=128 -->
             <FeatureIndex index="0" value="0"/>
-            <FeatureIndex index="1" value="1"/>
-            <FeatureIndex index="2" value="2"/>
-            <FeatureIndex index="3" value="3"/>
-            <FeatureIndex index="4" value="4"/>
-            <FeatureIndex index="5" value="5"/>
-            <FeatureIndex index="6" value="6"/>
-            <FeatureIndex index="7" value="7"/>
-            <FeatureIndex index="8" value="8"/>
-            <FeatureIndex index="9" value="9"/>
-            <FeatureIndex index="10" value="10"/>
-            <FeatureIndex index="11" value="11"/>
-            <FeatureIndex index="12" value="12"/>
-            <FeatureIndex index="13" value="13"/>
-            <FeatureIndex index="14" value="14"/>
-            <FeatureIndex index="15" value="15"/>
-            <FeatureIndex index="16" value="16"/>
-            <FeatureIndex index="17" value="17"/>
-            <FeatureIndex index="18" value="18"/>
-            <FeatureIndex index="19" value="19"/>
-            <FeatureIndex index="20" value="20"/>
-            <FeatureIndex index="21" value="21"/>
-            <FeatureIndex index="22" value="22"/>
-            <FeatureIndex index="23" value="23"/>
-            <FeatureIndex index="24" value="24"/>
-            <FeatureIndex index="25" value="25"/>
-            <FeatureIndex index="26" value="26"/>
-            <FeatureIndex index="27" value="27"/>
-            <FeatureIndex index="28" value="28"/>
-            <FeatureIndex index="29" value="29"/>
-            <FeatureIndex index="30" value="30"/>
-            <FeatureIndex index="31" value="31"/>
-            <FeatureIndex index="32" value="32"/>
-            <FeatureIndex index="33" value="33"/>
-            <FeatureIndex index="34" value="34"/>
-            <FeatureIndex index="35" value="35"/>
-            <FeatureIndex index="36" value="36"/>
-            <FeatureIndex index="37" value="37"/>
-            <FeatureIndex index="38" value="38"/>
-            <FeatureIndex index="39" value="39"/>
-            <FeatureIndex index="40" value="40"/>
-            <FeatureIndex index="41" value="41"/>
-            <FeatureIndex index="42" value="42"/>
-            <FeatureIndex index="43" value="43"/>
-            <FeatureIndex index="44" value="44"/>
-            <FeatureIndex index="45" value="45"/>
-            <FeatureIndex index="46" value="46"/>
-            <FeatureIndex index="47" value="47"/>
-            <FeatureIndex index="48" value="48"/>
-            <FeatureIndex index="49" value="49"/>
-            <FeatureIndex index="50" value="50"/>
-            <FeatureIndex index="51" value="51"/>
-            <FeatureIndex index="52" value="52"/>
-            <FeatureIndex index="53" value="53"/>
-            <FeatureIndex index="54" value="54"/>
-            <FeatureIndex index="55" value="55"/>
-            <FeatureIndex index="56" value="56"/>
-            <FeatureIndex index="57" value="57"/>
-            <FeatureIndex index="58" value="58"/>
-            <FeatureIndex index="59" value="59"/>
-            <FeatureIndex index="60" value="60"/>
-            <FeatureIndex index="61" value="61"/>
-            <FeatureIndex index="62" value="62"/>
-            <FeatureIndex index="63" value="63"/>
-            <FeatureIndex index="64" value="64"/>
-            <FeatureIndex index="65" value="65"/>
-            <FeatureIndex index="66" value="66"/>
-            <FeatureIndex index="67" value="67"/>
-            <FeatureIndex index="68" value="68"/>
-            <FeatureIndex index="69" value="69"/>
-            <FeatureIndex index="70" value="70"/>
-            <FeatureIndex index="71" value="71"/>
-            <FeatureIndex index="72" value="72"/>
-            <FeatureIndex index="73" value="73"/>
-            <FeatureIndex index="74" value="74"/>
-            <FeatureIndex index="75" value="75"/>
-            <FeatureIndex index="76" value="76"/>
-            <FeatureIndex index="77" value="77"/>
-            <FeatureIndex index="78" value="78"/>
-            <FeatureIndex index="79" value="79"/>
-            <FeatureIndex index="80" value="80"/>
-            <FeatureIndex index="81" value="81"/>
-            <FeatureIndex index="82" value="82"/>
-            <FeatureIndex index="83" value="83"/>
-            <FeatureIndex index="84" value="84"/>
-            <FeatureIndex index="85" value="85"/>
-            <FeatureIndex index="86" value="86"/>
-            <FeatureIndex index="87" value="87"/>
-            <FeatureIndex index="88" value="88"/>
-            <FeatureIndex index="89" value="89"/>
-            <FeatureIndex index="90" value="90"/>
-            <FeatureIndex index="91" value="91"/>
-            <FeatureIndex index="92" value="92"/>
-            <FeatureIndex index="93" value="93"/>
-            <FeatureIndex index="94" value="94"/>
-            <FeatureIndex index="95" value="95"/>
-            <FeatureIndex index="96" value="96"/>
-            <FeatureIndex index="97" value="97"/>
-            <FeatureIndex index="98" value="98"/>
-            <FeatureIndex index="99" value="99"/>
-            <FeatureIndex index="100" value="100"/>
-            <FeatureIndex index="101" value="101"/>
-            <FeatureIndex index="102" value="102"/>
-            <FeatureIndex index="103" value="103"/>
-            <FeatureIndex index="104" value="104"/>
-            <FeatureIndex index="105" value="105"/>
-            <FeatureIndex index="106" value="106"/>
-            <FeatureIndex index="107" value="107"/>
-            <FeatureIndex index="108" value="108"/>
-            <FeatureIndex index="109" value="109"/>
-            <FeatureIndex index="110" value="110"/>
-            <FeatureIndex index="111" value="111"/>
-            <FeatureIndex index="112" value="112"/>
-            <FeatureIndex index="113" value="113"/>
-            <FeatureIndex index="114" value="114"/>
-            <FeatureIndex index="115" value="115"/>
-            <FeatureIndex index="116" value="116"/>
-            <FeatureIndex index="117" value="117"/>
-            <FeatureIndex index="118" value="118"/>
-            <FeatureIndex index="119" value="119"/>
-            <FeatureIndex index="120" value="120"/>
-            <FeatureIndex index="121" value="121"/>
-            <FeatureIndex index="122" value="122"/>
-            <FeatureIndex index="123" value="123"/>
-            <FeatureIndex index="124" value="124"/>
-            <FeatureIndex index="125" value="125"/>
-            <FeatureIndex index="126" value="126"/>
-            <FeatureIndex index="127" value="127"/>
+            <FeatureIndex index="1" value="2"/>
+            <FeatureIndex index="2" value="4"/>
+            <FeatureIndex index="3" value="6"/>
+            <FeatureIndex index="4" value="8"/>
+            <FeatureIndex index="5" value="10"/>
+            <FeatureIndex index="6" value="12"/>
+            <FeatureIndex index="7" value="14"/>
+            <FeatureIndex index="8" value="16"/>
+            <FeatureIndex index="9" value="18"/>
+            <FeatureIndex index="10" value="20"/>
+            <FeatureIndex index="11" value="22"/>
+            <FeatureIndex index="12" value="24"/>
+            <FeatureIndex index="13" value="26"/>
+            <FeatureIndex index="14" value="28"/>
+            <FeatureIndex index="15" value="30"/>
+            <FeatureIndex index="16" value="32"/>
+            <FeatureIndex index="17" value="34"/>
+            <FeatureIndex index="18" value="36"/>
+            <FeatureIndex index="19" value="38"/>
+            <FeatureIndex index="20" value="40"/>
+            <FeatureIndex index="21" value="42"/>
+            <FeatureIndex index="22" value="44"/>
+            <FeatureIndex index="23" value="46"/>
+            <FeatureIndex index="24" value="48"/>
+            <FeatureIndex index="25" value="50"/>
+            <FeatureIndex index="26" value="52"/>
+            <FeatureIndex index="27" value="54"/>
+            <FeatureIndex index="28" value="56"/>
+            <FeatureIndex index="29" value="58"/>
+            <FeatureIndex index="30" value="60"/>
+            <FeatureIndex index="31" value="62"/>
+            <FeatureIndex index="32" value="64"/>
+            <FeatureIndex index="33" value="66"/>
+            <FeatureIndex index="34" value="68"/>
+            <FeatureIndex index="35" value="70"/>
+            <FeatureIndex index="36" value="72"/>
+            <FeatureIndex index="37" value="74"/>
+            <FeatureIndex index="38" value="76"/>
+            <FeatureIndex index="39" value="78"/>
+            <FeatureIndex index="40" value="80"/>
+            <FeatureIndex index="41" value="82"/>
+            <FeatureIndex index="42" value="84"/>
+            <FeatureIndex index="43" value="86"/>
+            <FeatureIndex index="44" value="88"/>
+            <FeatureIndex index="45" value="90"/>
+            <FeatureIndex index="46" value="92"/>
+            <FeatureIndex index="47" value="94"/>
+            <FeatureIndex index="48" value="96"/>
+            <FeatureIndex index="49" value="98"/>
+            <FeatureIndex index="50" value="100"/>
+            <FeatureIndex index="51" value="102"/>
+            <FeatureIndex index="52" value="104"/>
+            <FeatureIndex index="53" value="106"/>
+            <FeatureIndex index="54" value="108"/>
+            <FeatureIndex index="55" value="110"/>
+            <FeatureIndex index="56" value="112"/>
+            <FeatureIndex index="57" value="114"/>
+            <FeatureIndex index="58" value="116"/>
+            <FeatureIndex index="59" value="118"/>
+            <FeatureIndex index="60" value="120"/>
+            <FeatureIndex index="61" value="122"/>
+            <FeatureIndex index="62" value="124"/>
+            <FeatureIndex index="63" value="126"/>
+            <FeatureIndex index="64" value="128"/>
+            <FeatureIndex index="65" value="130"/>
+            <FeatureIndex index="66" value="132"/>
+            <FeatureIndex index="67" value="134"/>
+            <FeatureIndex index="68" value="136"/>
+            <FeatureIndex index="69" value="138"/>
+            <FeatureIndex index="70" value="140"/>
+            <FeatureIndex index="71" value="142"/>
+            <FeatureIndex index="72" value="144"/>
+            <FeatureIndex index="73" value="146"/>
+            <FeatureIndex index="74" value="148"/>
+            <FeatureIndex index="75" value="150"/>
+            <FeatureIndex index="76" value="152"/>
+            <FeatureIndex index="77" value="154"/>
+            <FeatureIndex index="78" value="156"/>
+            <FeatureIndex index="79" value="158"/>
+            <FeatureIndex index="80" value="160"/>
+            <FeatureIndex index="81" value="162"/>
+            <FeatureIndex index="82" value="164"/>
+            <FeatureIndex index="83" value="166"/>
+            <FeatureIndex index="84" value="168"/>
+            <FeatureIndex index="85" value="170"/>
+            <FeatureIndex index="86" value="172"/>
+            <FeatureIndex index="87" value="174"/>
+            <FeatureIndex index="88" value="176"/>
+            <FeatureIndex index="89" value="178"/>
+            <FeatureIndex index="90" value="180"/>
+            <FeatureIndex index="91" value="182"/>
+            <FeatureIndex index="92" value="184"/>
+            <FeatureIndex index="93" value="186"/>
+            <FeatureIndex index="94" value="188"/>
+            <FeatureIndex index="95" value="190"/>
+            <FeatureIndex index="96" value="192"/>
+            <FeatureIndex index="97" value="194"/>
+            <FeatureIndex index="98" value="196"/>
+            <FeatureIndex index="99" value="198"/>
+            <FeatureIndex index="100" value="200"/>
+            <FeatureIndex index="101" value="202"/>
+            <FeatureIndex index="102" value="204"/>
+            <FeatureIndex index="103" value="206"/>
+            <FeatureIndex index="104" value="208"/>
+            <FeatureIndex index="105" value="210"/>
+            <FeatureIndex index="106" value="212"/>
+            <FeatureIndex index="107" value="214"/>
+            <FeatureIndex index="108" value="216"/>
+            <FeatureIndex index="109" value="218"/>
+            <FeatureIndex index="110" value="220"/>
+            <FeatureIndex index="111" value="222"/>
+            <FeatureIndex index="112" value="224"/>
+            <FeatureIndex index="113" value="226"/>
+            <FeatureIndex index="114" value="228"/>
+            <FeatureIndex index="115" value="230"/>
+            <FeatureIndex index="116" value="232"/>
+            <FeatureIndex index="117" value="234"/>
+            <FeatureIndex index="118" value="236"/>
+            <FeatureIndex index="119" value="238"/>
+            <FeatureIndex index="120" value="240"/>
+            <FeatureIndex index="121" value="242"/>
+            <FeatureIndex index="122" value="244"/>
+            <FeatureIndex index="123" value="246"/>
+            <FeatureIndex index="124" value="248"/>
+            <FeatureIndex index="125" value="250"/>
+            <FeatureIndex index="126" value="252"/>
+            <FeatureIndex index="127" value="254"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=128 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="3"/>
+            <FeatureIndex index="2" value="5"/>
+            <FeatureIndex index="3" value="7"/>
+            <FeatureIndex index="4" value="9"/>
+            <FeatureIndex index="5" value="11"/>
+            <FeatureIndex index="6" value="13"/>
+            <FeatureIndex index="7" value="15"/>
+            <FeatureIndex index="8" value="17"/>
+            <FeatureIndex index="9" value="19"/>
+            <FeatureIndex index="10" value="21"/>
+            <FeatureIndex index="11" value="23"/>
+            <FeatureIndex index="12" value="25"/>
+            <FeatureIndex index="13" value="27"/>
+            <FeatureIndex index="14" value="29"/>
+            <FeatureIndex index="15" value="31"/>
+            <FeatureIndex index="16" value="33"/>
+            <FeatureIndex index="17" value="35"/>
+            <FeatureIndex index="18" value="37"/>
+            <FeatureIndex index="19" value="39"/>
+            <FeatureIndex index="20" value="41"/>
+            <FeatureIndex index="21" value="43"/>
+            <FeatureIndex index="22" value="45"/>
+            <FeatureIndex index="23" value="47"/>
+            <FeatureIndex index="24" value="49"/>
+            <FeatureIndex index="25" value="51"/>
+            <FeatureIndex index="26" value="53"/>
+            <FeatureIndex index="27" value="55"/>
+            <FeatureIndex index="28" value="57"/>
+            <FeatureIndex index="29" value="59"/>
+            <FeatureIndex index="30" value="61"/>
+            <FeatureIndex index="31" value="63"/>
+            <FeatureIndex index="32" value="65"/>
+            <FeatureIndex index="33" value="67"/>
+            <FeatureIndex index="34" value="69"/>
+            <FeatureIndex index="35" value="71"/>
+            <FeatureIndex index="36" value="73"/>
+            <FeatureIndex index="37" value="75"/>
+            <FeatureIndex index="38" value="77"/>
+            <FeatureIndex index="39" value="79"/>
+            <FeatureIndex index="40" value="81"/>
+            <FeatureIndex index="41" value="83"/>
+            <FeatureIndex index="42" value="85"/>
+            <FeatureIndex index="43" value="87"/>
+            <FeatureIndex index="44" value="89"/>
+            <FeatureIndex index="45" value="91"/>
+            <FeatureIndex index="46" value="93"/>
+            <FeatureIndex index="47" value="95"/>
+            <FeatureIndex index="48" value="97"/>
+            <FeatureIndex index="49" value="99"/>
+            <FeatureIndex index="50" value="101"/>
+            <FeatureIndex index="51" value="103"/>
+            <FeatureIndex index="52" value="105"/>
+            <FeatureIndex index="53" value="107"/>
+            <FeatureIndex index="54" value="109"/>
+            <FeatureIndex index="55" value="111"/>
+            <FeatureIndex index="56" value="113"/>
+            <FeatureIndex index="57" value="115"/>
+            <FeatureIndex index="58" value="117"/>
+            <FeatureIndex index="59" value="119"/>
+            <FeatureIndex index="60" value="121"/>
+            <FeatureIndex index="61" value="123"/>
+            <FeatureIndex index="62" value="125"/>
+            <FeatureIndex index="63" value="127"/>
+            <FeatureIndex index="64" value="129"/>
+            <FeatureIndex index="65" value="131"/>
+            <FeatureIndex index="66" value="133"/>
+            <FeatureIndex index="67" value="135"/>
+            <FeatureIndex index="68" value="137"/>
+            <FeatureIndex index="69" value="139"/>
+            <FeatureIndex index="70" value="141"/>
+            <FeatureIndex index="71" value="143"/>
+            <FeatureIndex index="72" value="145"/>
+            <FeatureIndex index="73" value="147"/>
+            <FeatureIndex index="74" value="149"/>
+            <FeatureIndex index="75" value="151"/>
+            <FeatureIndex index="76" value="153"/>
+            <FeatureIndex index="77" value="155"/>
+            <FeatureIndex index="78" value="157"/>
+            <FeatureIndex index="79" value="159"/>
+            <FeatureIndex index="80" value="161"/>
+            <FeatureIndex index="81" value="163"/>
+            <FeatureIndex index="82" value="165"/>
+            <FeatureIndex index="83" value="167"/>
+            <FeatureIndex index="84" value="169"/>
+            <FeatureIndex index="85" value="171"/>
+            <FeatureIndex index="86" value="173"/>
+            <FeatureIndex index="87" value="175"/>
+            <FeatureIndex index="88" value="177"/>
+            <FeatureIndex index="89" value="179"/>
+            <FeatureIndex index="90" value="181"/>
+            <FeatureIndex index="91" value="183"/>
+            <FeatureIndex index="92" value="185"/>
+            <FeatureIndex index="93" value="187"/>
+            <FeatureIndex index="94" value="189"/>
+            <FeatureIndex index="95" value="191"/>
+            <FeatureIndex index="96" value="193"/>
+            <FeatureIndex index="97" value="195"/>
+            <FeatureIndex index="98" value="197"/>
+            <FeatureIndex index="99" value="199"/>
+            <FeatureIndex index="100" value="201"/>
+            <FeatureIndex index="101" value="203"/>
+            <FeatureIndex index="102" value="205"/>
+            <FeatureIndex index="103" value="207"/>
+            <FeatureIndex index="104" value="209"/>
+            <FeatureIndex index="105" value="211"/>
+            <FeatureIndex index="106" value="213"/>
+            <FeatureIndex index="107" value="215"/>
+            <FeatureIndex index="108" value="217"/>
+            <FeatureIndex index="109" value="219"/>
+            <FeatureIndex index="110" value="221"/>
+            <FeatureIndex index="111" value="223"/>
+            <FeatureIndex index="112" value="225"/>
+            <FeatureIndex index="113" value="227"/>
+            <FeatureIndex index="114" value="229"/>
+            <FeatureIndex index="115" value="231"/>
+            <FeatureIndex index="116" value="233"/>
+            <FeatureIndex index="117" value="235"/>
+            <FeatureIndex index="118" value="237"/>
+            <FeatureIndex index="119" value="239"/>
+            <FeatureIndex index="120" value="241"/>
+            <FeatureIndex index="121" value="243"/>
+            <FeatureIndex index="122" value="245"/>
+            <FeatureIndex index="123" value="247"/>
+            <FeatureIndex index="124" value="249"/>
+            <FeatureIndex index="125" value="251"/>
+            <FeatureIndex index="126" value="253"/>
+            <FeatureIndex index="127" value="255"/>
           </DefaultLangSys>
           <!-- LangSysCount=0 -->
         </Script>
       </ScriptRecord>
     </ScriptList>
     <FeatureList>
-      <!-- FeatureCount=128 -->
+      <!-- FeatureCount=256 -->
       <FeatureRecord index="0">
         <FeatureTag value="abvf"/>
         <Feature>
@@ -154,888 +2747,1784 @@
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="1">
-        <FeatureTag value="abvm"/>
+        <FeatureTag value="abvf"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="2">
-        <FeatureTag value="abvs"/>
+        <FeatureTag value="abvm"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="3">
-        <FeatureTag value="afrc"/>
+        <FeatureTag value="abvm"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="4">
-        <FeatureTag value="akhn"/>
+        <FeatureTag value="abvs"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="5">
-        <FeatureTag value="blwf"/>
+        <FeatureTag value="abvs"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="6">
-        <FeatureTag value="blwm"/>
+        <FeatureTag value="afrc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="7">
-        <FeatureTag value="blws"/>
+        <FeatureTag value="afrc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="8">
-        <FeatureTag value="c2pc"/>
+        <FeatureTag value="akhn"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="9">
-        <FeatureTag value="c2sc"/>
+        <FeatureTag value="akhn"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="10">
-        <FeatureTag value="calt"/>
+        <FeatureTag value="blwf"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="11">
-        <FeatureTag value="case"/>
+        <FeatureTag value="blwf"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="12">
-        <FeatureTag value="ccmp"/>
+        <FeatureTag value="blwm"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="13">
-        <FeatureTag value="clig"/>
+        <FeatureTag value="blwm"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="14">
-        <FeatureTag value="cpsp"/>
+        <FeatureTag value="blws"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="15">
-        <FeatureTag value="cswh"/>
+        <FeatureTag value="blws"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="16">
-        <FeatureTag value="curs"/>
+        <FeatureTag value="c2pc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="17">
-        <FeatureTag value="dist"/>
+        <FeatureTag value="c2pc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="18">
-        <FeatureTag value="dlig"/>
+        <FeatureTag value="c2sc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="19">
-        <FeatureTag value="dnom"/>
+        <FeatureTag value="c2sc"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="20">
-        <FeatureTag value="expt"/>
+        <FeatureTag value="calt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="21">
-        <FeatureTag value="falt"/>
+        <FeatureTag value="calt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="22">
-        <FeatureTag value="fin2"/>
+        <FeatureTag value="case"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="23">
-        <FeatureTag value="fin3"/>
+        <FeatureTag value="case"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="24">
-        <FeatureTag value="fina"/>
+        <FeatureTag value="ccmp"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="25">
-        <FeatureTag value="frac"/>
+        <FeatureTag value="ccmp"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="26">
-        <FeatureTag value="fwid"/>
+        <FeatureTag value="clig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="27">
-        <FeatureTag value="half"/>
+        <FeatureTag value="clig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="28">
-        <FeatureTag value="haln"/>
+        <FeatureTag value="cpsp"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="29">
-        <FeatureTag value="halt"/>
+        <FeatureTag value="cpsp"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="30">
-        <FeatureTag value="hist"/>
+        <FeatureTag value="cswh"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="31">
-        <FeatureTag value="hkna"/>
+        <FeatureTag value="cswh"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="32">
-        <FeatureTag value="hlig"/>
+        <FeatureTag value="curs"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="33">
-        <FeatureTag value="hngl"/>
+        <FeatureTag value="curs"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="34">
-        <FeatureTag value="hojo"/>
+        <FeatureTag value="dist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="35">
-        <FeatureTag value="hwid"/>
+        <FeatureTag value="dist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="36">
-        <FeatureTag value="init"/>
+        <FeatureTag value="dlig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="37">
-        <FeatureTag value="isol"/>
+        <FeatureTag value="dlig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="38">
-        <FeatureTag value="ital"/>
+        <FeatureTag value="dnom"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="39">
-        <FeatureTag value="jalt"/>
+        <FeatureTag value="dnom"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="40">
-        <FeatureTag value="jp04"/>
+        <FeatureTag value="expt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="41">
-        <FeatureTag value="jp78"/>
+        <FeatureTag value="expt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="42">
-        <FeatureTag value="jp83"/>
+        <FeatureTag value="falt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="43">
-        <FeatureTag value="jp90"/>
+        <FeatureTag value="falt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="44">
-        <FeatureTag value="kern"/>
+        <FeatureTag value="fin2"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="45">
-        <FeatureTag value="lfbd"/>
+        <FeatureTag value="fin2"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="46">
-        <FeatureTag value="liga"/>
+        <FeatureTag value="fin3"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="47">
-        <FeatureTag value="ljmo"/>
+        <FeatureTag value="fin3"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="48">
-        <FeatureTag value="lnum"/>
+        <FeatureTag value="fina"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="49">
-        <FeatureTag value="locl"/>
+        <FeatureTag value="fina"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="50">
-        <FeatureTag value="mark"/>
+        <FeatureTag value="frac"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="51">
-        <FeatureTag value="med2"/>
+        <FeatureTag value="frac"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="52">
-        <FeatureTag value="medi"/>
+        <FeatureTag value="fwid"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="53">
-        <FeatureTag value="mgrk"/>
+        <FeatureTag value="fwid"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="54">
-        <FeatureTag value="mkmk"/>
+        <FeatureTag value="half"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="55">
-        <FeatureTag value="mset"/>
+        <FeatureTag value="half"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="56">
-        <FeatureTag value="nalt"/>
+        <FeatureTag value="haln"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="57">
-        <FeatureTag value="nlck"/>
+        <FeatureTag value="haln"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="58">
-        <FeatureTag value="nukt"/>
+        <FeatureTag value="halt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="59">
-        <FeatureTag value="numr"/>
+        <FeatureTag value="halt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="60">
-        <FeatureTag value="onum"/>
+        <FeatureTag value="hist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="61">
-        <FeatureTag value="opbd"/>
+        <FeatureTag value="hist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="62">
-        <FeatureTag value="ordn"/>
+        <FeatureTag value="hkna"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="63">
-        <FeatureTag value="ornm"/>
+        <FeatureTag value="hkna"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="64">
-        <FeatureTag value="palt"/>
+        <FeatureTag value="hlig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="65">
-        <FeatureTag value="pcap"/>
+        <FeatureTag value="hlig"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="66">
-        <FeatureTag value="pnum"/>
+        <FeatureTag value="hngl"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="67">
-        <FeatureTag value="pref"/>
+        <FeatureTag value="hngl"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="68">
-        <FeatureTag value="pres"/>
+        <FeatureTag value="hojo"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="69">
-        <FeatureTag value="pstf"/>
+        <FeatureTag value="hojo"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="70">
-        <FeatureTag value="psts"/>
+        <FeatureTag value="hwid"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="71">
-        <FeatureTag value="pwid"/>
+        <FeatureTag value="hwid"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="72">
-        <FeatureTag value="qwid"/>
+        <FeatureTag value="init"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="73">
-        <FeatureTag value="rand"/>
+        <FeatureTag value="init"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="74">
-        <FeatureTag value="rlig"/>
+        <FeatureTag value="isol"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="75">
-        <FeatureTag value="rphf"/>
+        <FeatureTag value="isol"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="76">
-        <FeatureTag value="rtbd"/>
+        <FeatureTag value="ital"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="77">
-        <FeatureTag value="rtla"/>
+        <FeatureTag value="ital"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="78">
-        <FeatureTag value="ruby"/>
+        <FeatureTag value="jalt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="79">
-        <FeatureTag value="salt"/>
+        <FeatureTag value="jalt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="80">
-        <FeatureTag value="sinf"/>
+        <FeatureTag value="jp04"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="81">
-        <FeatureTag value="smcp"/>
+        <FeatureTag value="jp04"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="82">
-        <FeatureTag value="smpl"/>
+        <FeatureTag value="jp78"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="83">
-        <FeatureTag value="ss01"/>
+        <FeatureTag value="jp78"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="84">
-        <FeatureTag value="ss02"/>
+        <FeatureTag value="jp83"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="85">
-        <FeatureTag value="ss03"/>
+        <FeatureTag value="jp83"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="86">
-        <FeatureTag value="ss04"/>
+        <FeatureTag value="jp90"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="87">
-        <FeatureTag value="ss05"/>
+        <FeatureTag value="jp90"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="88">
-        <FeatureTag value="ss06"/>
+        <FeatureTag value="kern"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="89">
-        <FeatureTag value="ss07"/>
+        <FeatureTag value="kern"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="90">
-        <FeatureTag value="ss08"/>
+        <FeatureTag value="lfbd"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="91">
-        <FeatureTag value="ss09"/>
+        <FeatureTag value="lfbd"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="92">
-        <FeatureTag value="ss10"/>
+        <FeatureTag value="liga"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="93">
-        <FeatureTag value="ss11"/>
+        <FeatureTag value="liga"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="94">
-        <FeatureTag value="ss12"/>
+        <FeatureTag value="ljmo"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="95">
-        <FeatureTag value="ss13"/>
+        <FeatureTag value="ljmo"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="96">
-        <FeatureTag value="ss14"/>
+        <FeatureTag value="lnum"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="97">
-        <FeatureTag value="ss15"/>
+        <FeatureTag value="lnum"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="98">
-        <FeatureTag value="ss16"/>
+        <FeatureTag value="locl"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="99">
-        <FeatureTag value="ss17"/>
+        <FeatureTag value="locl"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="100">
-        <FeatureTag value="ss18"/>
+        <FeatureTag value="mark"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="101">
-        <FeatureTag value="ss19"/>
+        <FeatureTag value="mark"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="102">
-        <FeatureTag value="ss20"/>
+        <FeatureTag value="med2"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="103">
-        <FeatureTag value="ss21"/>
+        <FeatureTag value="med2"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="104">
-        <FeatureTag value="ss22"/>
+        <FeatureTag value="medi"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="105">
-        <FeatureTag value="ss23"/>
+        <FeatureTag value="medi"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="106">
-        <FeatureTag value="subs"/>
+        <FeatureTag value="mgrk"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="107">
-        <FeatureTag value="sups"/>
+        <FeatureTag value="mgrk"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="108">
-        <FeatureTag value="swsh"/>
+        <FeatureTag value="mkmk"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="109">
-        <FeatureTag value="titl"/>
+        <FeatureTag value="mkmk"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="110">
-        <FeatureTag value="tjmo"/>
+        <FeatureTag value="mset"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="111">
-        <FeatureTag value="tnam"/>
+        <FeatureTag value="mset"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="112">
-        <FeatureTag value="tnum"/>
+        <FeatureTag value="nalt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="113">
-        <FeatureTag value="trad"/>
+        <FeatureTag value="nalt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="114">
-        <FeatureTag value="twid"/>
+        <FeatureTag value="nlck"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="115">
-        <FeatureTag value="unic"/>
+        <FeatureTag value="nlck"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="116">
-        <FeatureTag value="valt"/>
+        <FeatureTag value="nukt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="117">
-        <FeatureTag value="vatu"/>
+        <FeatureTag value="nukt"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="118">
-        <FeatureTag value="vert"/>
+        <FeatureTag value="numr"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="119">
-        <FeatureTag value="vhal"/>
+        <FeatureTag value="numr"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="120">
-        <FeatureTag value="vjmo"/>
+        <FeatureTag value="onum"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="121">
-        <FeatureTag value="vkna"/>
+        <FeatureTag value="onum"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="122">
-        <FeatureTag value="vkrn"/>
+        <FeatureTag value="opbd"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="123">
-        <FeatureTag value="vpal"/>
+        <FeatureTag value="opbd"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="124">
-        <FeatureTag value="vrt2"/>
+        <FeatureTag value="ordn"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="125">
-        <FeatureTag value="xx01"/>
+        <FeatureTag value="ordn"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="126">
-        <FeatureTag value="xx02"/>
+        <FeatureTag value="ornm"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="127">
+        <FeatureTag value="ornm"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="128">
+        <FeatureTag value="palt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="129">
+        <FeatureTag value="palt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="130">
+        <FeatureTag value="pcap"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="131">
+        <FeatureTag value="pcap"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="132">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="133">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="134">
+        <FeatureTag value="pref"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="135">
+        <FeatureTag value="pref"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="136">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="137">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="138">
+        <FeatureTag value="pstf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="139">
+        <FeatureTag value="pstf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="140">
+        <FeatureTag value="psts"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="141">
+        <FeatureTag value="psts"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="142">
+        <FeatureTag value="pwid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="143">
+        <FeatureTag value="pwid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="144">
+        <FeatureTag value="qwid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="145">
+        <FeatureTag value="qwid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="146">
+        <FeatureTag value="rand"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="147">
+        <FeatureTag value="rand"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="148">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="149">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="150">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="151">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="152">
+        <FeatureTag value="rtbd"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="153">
+        <FeatureTag value="rtbd"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="154">
+        <FeatureTag value="rtla"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="155">
+        <FeatureTag value="rtla"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="156">
+        <FeatureTag value="ruby"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="157">
+        <FeatureTag value="ruby"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="158">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="159">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="160">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="161">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="162">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="163">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="164">
+        <FeatureTag value="smpl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="165">
+        <FeatureTag value="smpl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="166">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="167">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="168">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="169">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="170">
+        <FeatureTag value="ss03"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="171">
+        <FeatureTag value="ss03"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="172">
+        <FeatureTag value="ss04"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="173">
+        <FeatureTag value="ss04"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="174">
+        <FeatureTag value="ss05"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="175">
+        <FeatureTag value="ss05"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="176">
+        <FeatureTag value="ss06"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="177">
+        <FeatureTag value="ss06"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="178">
+        <FeatureTag value="ss07"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="179">
+        <FeatureTag value="ss07"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="180">
+        <FeatureTag value="ss08"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="181">
+        <FeatureTag value="ss08"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="182">
+        <FeatureTag value="ss09"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="183">
+        <FeatureTag value="ss09"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="184">
+        <FeatureTag value="ss10"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="185">
+        <FeatureTag value="ss10"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="186">
+        <FeatureTag value="ss11"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="187">
+        <FeatureTag value="ss11"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="188">
+        <FeatureTag value="ss12"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="189">
+        <FeatureTag value="ss12"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="190">
+        <FeatureTag value="ss13"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="191">
+        <FeatureTag value="ss13"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="192">
+        <FeatureTag value="ss14"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="193">
+        <FeatureTag value="ss14"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="194">
+        <FeatureTag value="ss15"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="195">
+        <FeatureTag value="ss15"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="196">
+        <FeatureTag value="ss16"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="197">
+        <FeatureTag value="ss16"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="198">
+        <FeatureTag value="ss17"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="199">
+        <FeatureTag value="ss17"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="200">
+        <FeatureTag value="ss18"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="201">
+        <FeatureTag value="ss18"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="202">
+        <FeatureTag value="ss19"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="203">
+        <FeatureTag value="ss19"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="204">
+        <FeatureTag value="ss20"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="205">
+        <FeatureTag value="ss20"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="206">
+        <FeatureTag value="ss21"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="207">
+        <FeatureTag value="ss21"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="208">
+        <FeatureTag value="ss22"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="209">
+        <FeatureTag value="ss22"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="210">
+        <FeatureTag value="ss23"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="211">
+        <FeatureTag value="ss23"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="212">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="213">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="214">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="215">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="216">
+        <FeatureTag value="swsh"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="217">
+        <FeatureTag value="swsh"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="218">
+        <FeatureTag value="titl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="219">
+        <FeatureTag value="titl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="220">
+        <FeatureTag value="tjmo"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="221">
+        <FeatureTag value="tjmo"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="222">
+        <FeatureTag value="tnam"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="223">
+        <FeatureTag value="tnam"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="224">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="225">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="226">
+        <FeatureTag value="trad"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="227">
+        <FeatureTag value="trad"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="228">
+        <FeatureTag value="twid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="229">
+        <FeatureTag value="twid"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="230">
+        <FeatureTag value="unic"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="231">
+        <FeatureTag value="unic"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="232">
+        <FeatureTag value="valt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="233">
+        <FeatureTag value="valt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="234">
+        <FeatureTag value="vatu"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="235">
+        <FeatureTag value="vatu"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="236">
+        <FeatureTag value="vert"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="237">
+        <FeatureTag value="vert"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="238">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="239">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="240">
+        <FeatureTag value="vjmo"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="241">
+        <FeatureTag value="vjmo"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="242">
+        <FeatureTag value="vkna"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="243">
+        <FeatureTag value="vkna"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="244">
+        <FeatureTag value="vkrn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="245">
+        <FeatureTag value="vkrn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="246">
+        <FeatureTag value="vpal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="247">
+        <FeatureTag value="vpal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="248">
+        <FeatureTag value="vrt2"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="249">
+        <FeatureTag value="vrt2"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="250">
+        <FeatureTag value="xx01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="251">
+        <FeatureTag value="xx01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="252">
+        <FeatureTag value="xx02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="253">
+        <FeatureTag value="xx02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="254">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="255">
         <FeatureTag value="zero"/>
         <Feature>
           <!-- LookupCount=1 -->
@@ -1046,120 +4535,136 @@
     <LookupList>
       <!-- LookupCount=2 -->
       <Lookup index="0">
-        <!-- LookupType=5 -->
+        <LookupType value="5"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
-        <ContextSubst index="0" Format="3">
-          <!-- GlyphCount=1 -->
-          <!-- SubstCount=24 -->
-          <Coverage index="0" empty="1"/>
-          <SubstLookupRecord index="0">
-            <SequenceIndex value="18"/>
-            <LookupListIndex value="0"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="1">
-            <SequenceIndex value="1"/>
-            <LookupListIndex value="0"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="2">
-            <SequenceIndex value="1"/>
-            <LookupListIndex value="1"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="3">
-            <SequenceIndex value="1"/>
-            <LookupListIndex value="66"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="4">
-            <SequenceIndex value="1"/>
-            <LookupListIndex value="1"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="5">
-            <SequenceIndex value="65"/>
-            <LookupListIndex value="128"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="6">
-            <SequenceIndex value="24930"/>
-            <LookupListIndex value="30310"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="7">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="24930"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="8">
-            <SequenceIndex value="30317"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="9">
-            <SequenceIndex value="24930"/>
-            <LookupListIndex value="30323"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="10">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="24934"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="11">
-            <SequenceIndex value="29283"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="12">
-            <SequenceIndex value="24939"/>
-            <LookupListIndex value="26734"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="13">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="25196"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="14">
-            <SequenceIndex value="30566"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="15">
-            <SequenceIndex value="25196"/>
-            <LookupListIndex value="30573"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="16">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="25196"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="17">
-            <SequenceIndex value="30579"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="18">
-            <SequenceIndex value="25394"/>
-            <LookupListIndex value="28771"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="19">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="25394"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="20">
-            <SequenceIndex value="29539"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="21">
-            <SequenceIndex value="25441"/>
-            <LookupListIndex value="27764"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="22">
-            <SequenceIndex value="770"/>
-            <LookupListIndex value="25441"/>
-          </SubstLookupRecord>
-          <SubstLookupRecord index="23">
-            <SequenceIndex value="29541"/>
-            <LookupListIndex value="770"/>
-          </SubstLookupRecord>
+        <ContextSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="a"/>
+          </Coverage>
+          <!-- SubRuleSetCount=1 -->
+          <SubRuleSet index="0">
+            <!-- SubRuleCount=1 -->
+            <SubRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=1 -->
+              <Input index="0" value="b"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="1"/>
+              </SubstLookupRecord>
+            </SubRule>
+          </SubRuleSet>
         </ContextSubst>
       </Lookup>
       <Lookup index="1">
-        <!-- LookupType=1 -->
+        <LookupType value="1"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
-        <SingleSubst index="0">
-          <Substitution in="b" out="c"/>
+        <SingleSubst index="0" Format="1">
+          <Substitution in="a" out="c"/>
         </SingleSubst>
       </Lookup>
     </LookupList>
   </GSUB>
+
+  <hmtx>
+    <mtx name=".notdef" width="254" lsb="0"/>
+    <mtx name="A" width="750" lsb="6"/>
+    <mtx name="B" width="672" lsb="20"/>
+    <mtx name="C" width="685" lsb="32"/>
+    <mtx name="D" width="737" lsb="20"/>
+    <mtx name="E" width="625" lsb="20"/>
+    <mtx name="F" width="552" lsb="20"/>
+    <mtx name="G" width="758" lsb="32"/>
+    <mtx name="H" width="751" lsb="20"/>
+    <mtx name="I" width="342" lsb="23"/>
+    <mtx name="J" width="397" lsb="4"/>
+    <mtx name="K" width="752" lsb="20"/>
+    <mtx name="L" width="628" lsb="20"/>
+    <mtx name="M" width="926" lsb="20"/>
+    <mtx name="N" width="739" lsb="0"/>
+    <mtx name="O" width="746" lsb="32"/>
+    <mtx name="P" width="576" lsb="20"/>
+    <mtx name="Q" width="738" lsb="32"/>
+    <mtx name="R" width="691" lsb="20"/>
+    <mtx name="S" width="560" lsb="58"/>
+    <mtx name="T" width="590" lsb="10"/>
+    <mtx name="U" width="752" lsb="17"/>
+    <mtx name="V" width="724" lsb="0"/>
+    <mtx name="W" width="946" lsb="0"/>
+    <mtx name="X" width="742" lsb="0"/>
+    <mtx name="Y" width="694" lsb="-16"/>
+    <mtx name="Z" width="622" lsb="10"/>
+    <mtx name="a" width="445" lsb="32"/>
+    <mtx name="ampersand" width="814" lsb="35"/>
+    <mtx name="asciicircum" width="496" lsb="12"/>
+    <mtx name="asciitilde" width="607" lsb="38"/>
+    <mtx name="asterisk" width="498" lsb="70"/>
+    <mtx name="at" width="968" lsb="61"/>
+    <mtx name="b" width="506" lsb="-4"/>
+    <mtx name="backslash" width="275" lsb="-1"/>
+    <mtx name="bar" width="259" lsb="101"/>
+    <mtx name="braceleft" width="334" lsb="19"/>
+    <mtx name="braceright" width="334" lsb="19"/>
+    <mtx name="bracketleft" width="304" lsb="41"/>
+    <mtx name="bracketright" width="301" lsb="13"/>
+    <mtx name="c" width="450" lsb="32"/>
+    <mtx name="colon" width="270" lsb="65"/>
+    <mtx name="comma" width="270" lsb="65"/>
+    <mtx name="d" width="510" lsb="32"/>
+    <mtx name="dollar" width="495" lsb="40"/>
+    <mtx name="e" width="462" lsb="32"/>
+    <mtx name="eight" width="510" lsb="60"/>
+    <mtx name="equal" width="600" lsb="42"/>
+    <mtx name="exclam" width="193" lsb="38"/>
+    <mtx name="f" width="292" lsb="18"/>
+    <mtx name="five" width="510" lsb="65"/>
+    <mtx name="four" width="510" lsb="16"/>
+    <mtx name="g" width="500" lsb="20"/>
+    <mtx name="grave" width="201" lsb="11"/>
+    <mtx name="greater" width="600" lsb="37"/>
+    <mtx name="h" width="520" lsb="6"/>
+    <mtx name="hyphen" width="290" lsb="20"/>
+    <mtx name="i" width="278" lsb="25"/>
+    <mtx name="j" width="278" lsb="-63"/>
+    <mtx name="k" width="510" lsb="10"/>
+    <mtx name="l" width="277" lsb="20"/>
+    <mtx name="less" width="600" lsb="37"/>
+    <mtx name="m" width="805" lsb="10"/>
+    <mtx name="n" width="518" lsb="10"/>
+    <mtx name="nine" width="510" lsb="33"/>
+    <mtx name="numbersign" width="503" lsb="0"/>
+    <mtx name="o" width="506" lsb="32"/>
+    <mtx name="one" width="510" lsb="115"/>
+    <mtx name="p" width="516" lsb="7"/>
+    <mtx name="parenleft" width="329" lsb="31"/>
+    <mtx name="parenright" width="372" lsb="46"/>
+    <mtx name="percent" width="848" lsb="30"/>
+    <mtx name="period" width="270" lsb="65"/>
+    <mtx name="plus" width="600" lsb="42"/>
+    <mtx name="q" width="512" lsb="32"/>
+    <mtx name="question" width="463" lsb="45"/>
+    <mtx name="quotedbl" width="329" lsb="26"/>
+    <mtx name="quotesingle" width="168" lsb="32"/>
+    <mtx name="r" width="344" lsb="8"/>
+    <mtx name="s" width="402" lsb="50"/>
+    <mtx name="semicolon" width="270" lsb="65"/>
+    <mtx name="seven" width="510" lsb="31"/>
+    <mtx name="six" width="510" lsb="37"/>
+    <mtx name="slash" width="275" lsb="0"/>
+    <mtx name="space" width="254" lsb="0"/>
+    <mtx name="t" width="290" lsb="8"/>
+    <mtx name="three" width="510" lsb="50"/>
+    <mtx name="two" width="510" lsb="33"/>
+    <mtx name="u" width="518" lsb="8"/>
+    <mtx name="underscore" width="550" lsb="0"/>
+    <mtx name="v" width="494" lsb="0"/>
+    <mtx name="w" width="753" lsb="0"/>
+    <mtx name="x" width="503" lsb="8"/>
+    <mtx name="y" width="514" lsb="0"/>
+    <mtx name="z" width="463" lsb="20"/>
+    <mtx name="zero" width="510" lsb="27"/>
+  </hmtx>
 
 </ttFont>

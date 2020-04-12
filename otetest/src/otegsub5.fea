@@ -1,3 +1,5 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt; 
 
 feature xx01 { lookup test { sub a b' by c; } test; } xx01; 
 
